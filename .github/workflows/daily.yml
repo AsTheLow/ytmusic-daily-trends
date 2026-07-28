@@ -1,0 +1,34 @@
+name: Daily Music Commit
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  # S'exécute chaque jour à 8h00 UTC
+  workflow_dispatch:     # Permet un lancement manuel depuis GitHub
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write    # Autorise le bot à commiter sur ton dépôt
+
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Installer la librairie
+        run: pip install -r requirements.txt
+
+      - name: Lancer le script
+        run: python fetch_music.py
+
+      - name: Valider et pousser le commit
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: mise à jour de la playlist du jour 🎵" && git push)
