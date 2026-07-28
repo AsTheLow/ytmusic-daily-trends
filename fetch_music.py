@@ -4,29 +4,57 @@ from ytmusicapi import YTMusic
 
 
 def update_readme_playlist():
-    # Initialisation en mode public (sans aucun compte ni cookie)
     ytmusic = YTMusic()
 
-    print("🔍 Récupération des tendances publiques...")
-    charts = ytmusic.get_charts(country="FR")
-    all_trending = charts.get("videos", {}).get("items", [])[:50]
-    
-    # Filtrage des morceaux valides
-    valid_tracks = [item for item in all_trending if "videoId" in item]
+    print("🔍 Récupération des tendances ou morceaux populaires...")
+    valid_tracks = []
 
-    # Tirage au sort de 15 titres
+    # 1. Tentative de récupération via les charts
+    try:
+        charts = ytmusic.get_charts(country="FR")
+        videos_data = charts.get("videos") or charts.get("trending")
+
+        if isinstance(videos_data, dict):
+            items = videos_data.get("items", [])
+        elif isinstance(videos_data, list):
+            items = videos_data
+        else:
+            items = []
+
+        valid_tracks = [item for item in items if "videoId" in item]
+    except Exception as e:
+        print(f"⚠️ Erreur lors de la lecture des charts : {e}")
+
+    # 2. Secours via la recherche si les charts ne renvoient pas de titres directement
+    if not valid_tracks:
+        print("💡 Utilisation de la recherche 'Top 50 France' en secours...")
+        search_results = ytmusic.search(
+            "Top 50 France", filter="songs", limit=50
+        )
+        valid_tracks = [item for item in search_results if "videoId" in item]
+
+    # 3. Tirage au sort de 15 titres
     sample_size = min(15, len(valid_tracks))
     selected_tracks = random.sample(valid_tracks, sample_size)
 
     today = datetime.now().strftime("%d/%m/%Y")
 
-    # Génération du contenu Markdown
+    # 4. Génération du contenu Markdown
     content = f"# 🎧 Ma Playlist Découverte du Jour ({today})\n\n"
-    content += "15 morceaux piochés automatiquement chaque matin dans le Top 50 des tendances France :\n\n"
+    content += "15 morceaux piochés automatiquement chaque matin dans les tendances France :\n\n"
 
     for index, item in enumerate(selected_tracks, start=1):
         title = item.get("title", "Titre inconnu")
-        artists = ", ".join([a["name"] for a in item.get("artists", [])])
+
+        # Formatage des artistes
+        artists_list = item.get("artists", [])
+        if isinstance(artists_list, list):
+            artists = ", ".join(
+                [a.get("name", "") for a in artists_list if isinstance(a, dict)]
+            )
+        else:
+            artists = "Artiste inconnu"
+
         video_id = item.get("videoId")
         url = f"https://music.youtube.com/watch?v={video_id}"
 
@@ -34,7 +62,7 @@ def update_readme_playlist():
 
     content += "\n---\n*Mis à jour automatiquement chaque jour via GitHub Actions 🤖*"
 
-    # Écriture dans le README.md
+    # 5. Écriture dans le README.md
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(content)
 
