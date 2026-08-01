@@ -1,22 +1,22 @@
-# 🎧 Ma Playlist Découverte du Jour (31/07/2026)
+# 🎧 Ma Playlist Découverte du Jour (01/08/2026)
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[Dolce Camara](https://music.youtube.com/watch?v=AgFG6_TGdTY)** — *Booba, SDM*
-2. **[Hate It Or Love It (feat. 50 Cent)](https://music.youtube.com/watch?v=B_1moEBS4TE)** — *The Game*
-3. **[Blinding Lights](https://music.youtube.com/watch?v=J7p4bzqLvCw)** — *The Weeknd*
-4. **[Jerusalema (feat. Nomcebo Zikode)](https://music.youtube.com/watch?v=sHatfoYEQo0)** — *Master KG*
-5. **[DIE](https://music.youtube.com/watch?v=80G34JKC8iE)** — *Gazo*
-6. **[Copines](https://music.youtube.com/watch?v=aykb9pGfTR4)** — *Aya Nakamura*
-7. **[In Da Club](https://music.youtube.com/watch?v=bykSx6ewuac)** — *50 Cent*
-8. **[Ramenez la coupe à la maison](https://music.youtube.com/watch?v=Y5AO9oONTvk)** — *Vegedream*
-9. **[Désolé](https://music.youtube.com/watch?v=Wv6I6okZgVc)** — *Sexion d'Assaut*
-10. **[Aston Martin Music (feat. Drake & Chrisette Michele)](https://music.youtube.com/watch?v=bQ7uLY_eMRY)** — *Rick Ross*
-11. **[Voyage, Voyage](https://music.youtube.com/watch?v=dB_c7oZWo1g)** — *DESIRELESS*
-12. **[Moi... Lolita](https://music.youtube.com/watch?v=TYcGedAkXio)** — *Alizée*
-13. **[Siffler sur la colline](https://music.youtube.com/watch?v=GhcRIVn66B8)** — *Joe Dassin*
-14. **[Dernière danse](https://music.youtube.com/watch?v=cKE4wJMcAkc)** — *Indila*
-15. **[Fly Me To The Moon (2008 Remastered) (feat. Count Basie And His Orchestra)](https://music.youtube.com/watch?v=ZEcqHA7dbwM)** — *Frank Sinatra*
+1. **[VVS](https://music.youtube.com/watch?v=4KFIweKJFkg)** — *Ninho*
+2. **[P.I.M.P. (Snoop Dogg Remix) (feat. Snoop Dogg)](https://music.youtube.com/watch?v=0FYHqh3O4AM)** — *50 Cent*
+3. **[Take on Me](https://music.youtube.com/watch?v=HzdD8kbDzZA)** — *a-ha*
+4. **[SPA](https://music.youtube.com/watch?v=Zm9RJff5fjw)** — *GIMS, Theodora*
+5. **[Afro Trap Pt. 7 (La puissance)](https://music.youtube.com/watch?v=ZuYyv5-0p2c)** — *MHD*
+6. **['50s French Movie](https://music.youtube.com/watch?v=EQQBx8YVoq8)** — *Carrie Rodriguez*
+7. **[Alexandrie Alexandra](https://music.youtube.com/watch?v=P-WVG6GHh8g)** — *50 Tubes Du Top*
+8. **[Désolé](https://music.youtube.com/watch?v=Wv6I6okZgVc)** — *Sexion d'Assaut*
+9. **[Top 50](https://music.youtube.com/watch?v=J2cWzZfjNwA)** — *Sébastien Tellier, Mr. Oizo, SebastiAn*
+10. **[PARISIENNE](https://music.youtube.com/watch?v=ERk4Lx-mOqQ)** — *GIMS, La Mano 1.9*
+11. **[Hate It Or Love It (feat. 50 Cent)](https://music.youtube.com/watch?v=B_1moEBS4TE)** — *The Game*
+12. **[Générique Top 50 (feat. P. Lion)](https://music.youtube.com/watch?v=R60bVh6Wj-A)** — *Anders Enger Jensen*
+13. **[La foule](https://music.youtube.com/watch?v=ShmWmMWI8rY)** — *Youssoupha*
+14. **[Le Festin](https://music.youtube.com/watch?v=-QuVe-hjMs0)** — *Camille, Michael Giacchino*
+15. **[Belle-Île-en-Mer, Marie-Galante](https://music.youtube.com/watch?v=vguNaTxxG1g)** — *50 Tubes Au Top*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
