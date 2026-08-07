@@ -1,22 +1,22 @@
-# 🎧 Ma Playlist Découverte du Jour (06/08/2026)
+# 🎧 Ma Playlist Découverte du Jour (07/08/2026)
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[La foule](https://music.youtube.com/watch?v=ShmWmMWI8rY)** — *Youssoupha*
-2. **[Hate It Or Love It (feat. 50 Cent)](https://music.youtube.com/watch?v=B_1moEBS4TE)** — *The Game*
-3. **[Pop That (feat. Rick Ross, Drake & Lil Wayne)](https://music.youtube.com/watch?v=AujrL5yzF7E)** — *French Montana*
-4. **[Papaoutai (Afro Soul) (Afro House Remix Edit)](https://music.youtube.com/watch?v=fbin7YW2Sl4)** — *Youssou Makeba*
-5. **[Ramenez la coupe à la maison](https://music.youtube.com/watch?v=Y5AO9oONTvk)** — *Vegedream*
-6. **[Belle Ile En Mer](https://music.youtube.com/watch?v=JEBTbtyGv84)** — *50 Tubes Du Top*
-7. **[Je veux](https://music.youtube.com/watch?v=Z7cuTnbF-2c)** — *Zaz*
-8. **[Shape of You](https://music.youtube.com/watch?v=xTvyyoF_LZY)** — *Ed Sheeran*
-9. **[Love Story](https://music.youtube.com/watch?v=4TIGwaBHuzg)** — *Indila*
-10. **[To France](https://music.youtube.com/watch?v=M5jphuDsNj0)** — *Micast & Kya*
-11. **[Ramenez la coupe à la maison](https://music.youtube.com/watch?v=jOF-P-vHQcc)** — *Vegedream*
-12. **[The Cup of Life (La Copa De La Vida) [The Official Song of the World Cup, France '98][English]](https://music.youtube.com/watch?v=11x7crPnOF4)** — *Ricky Martin*
-13. **[Désolé](https://music.youtube.com/watch?v=Wv6I6okZgVc)** — *Sexion d'Assaut*
-14. **[Goodbye Marilou](https://music.youtube.com/watch?v=oZYMD0uzTF0)** — *50 Tubes Du Top*
-15. **[To France](https://music.youtube.com/watch?v=XzZkaAqxqpk)** — *Brisby & Jingles*
+1. **[Petit génie (feat. Abou Debeing)](https://music.youtube.com/watch?v=iANdoKq5ty4)** — *Jungeli, Imen Es, Alonzo, Lossa*
+2. **[Et si tu n'existais pas](https://music.youtube.com/watch?v=EJLDd-VOH1U)** — *Joe Dassin*
+3. **[Unforgettable (feat. Swae Lee)](https://music.youtube.com/watch?v=48ydDUQ16RE)** — *French Montana*
+4. **[La foule](https://music.youtube.com/watch?v=ShmWmMWI8rY)** — *Youssoupha*
+5. **[Window Shopper (feat. Mase)](https://music.youtube.com/watch?v=KQZnU4kjfV8)** — *50 Cent*
+6. **[PARISIENNE](https://music.youtube.com/watch?v=ERk4Lx-mOqQ)** — *GIMS, La Mano 1.9*
+7. **[Les Champs-Elysées](https://music.youtube.com/watch?v=pvgjEdnTgXA)** — *Joe Dassin*
+8. **[Alors on danse (Radio Edit)](https://music.youtube.com/watch?v=gUbeQ7eb3nc)** — *Stromae*
+9. **[La Foule](https://music.youtube.com/watch?v=o2Tz1yV48NQ)** — *Edith Piaf*
+10. **[To France](https://music.youtube.com/watch?v=XzZkaAqxqpk)** — *Brisby & Jingles*
+11. **[D'amour ou d'amitié](https://music.youtube.com/watch?v=VNMqtz5AZkQ)** — *Céline Dion*
+12. **[Liberté (feat. Ouled El Bahdja)](https://music.youtube.com/watch?v=uIAIMkl9ewQ)** — *Soolking*
+13. **[Tourner Dans Le Vide](https://music.youtube.com/watch?v=ONlMB2oGWwE)** — *Indila*
+14. **[Afro Trap Pt. 7 (La puissance)](https://music.youtube.com/watch?v=ZuYyv5-0p2c)** — *MHD*
+15. **[P.I.M.P. (Snoop Dogg Remix) (feat. Snoop Dogg)](https://music.youtube.com/watch?v=0FYHqh3O4AM)** — *50 Cent*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
