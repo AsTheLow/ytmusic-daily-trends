@@ -1,22 +1,22 @@
-# 🎧 Ma Playlist Découverte du Jour (10/08/2026)
+# 🎧 Ma Playlist Découverte du Jour (11/08/2026)
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[Afro Trap Pt. 7 (La puissance)](https://music.youtube.com/watch?v=ZuYyv5-0p2c)** — *MHD*
+1. **[Ramenez la coupe à la maison](https://music.youtube.com/watch?v=Y5AO9oONTvk)** — *Vegedream*
 2. **[Hate It Or Love It (feat. 50 Cent)](https://music.youtube.com/watch?v=B_1moEBS4TE)** — *The Game*
-3. **[P.I.M.P. (Snoop Dogg Remix) (feat. Snoop Dogg)](https://music.youtube.com/watch?v=0FYHqh3O4AM)** — *50 Cent*
-4. **[The Cup of Life (La Copa De La Vida) [The Official Song of the World Cup, France '98][English]](https://music.youtube.com/watch?v=11x7crPnOF4)** — *Ricky Martin*
-5. **[Mon amour](https://music.youtube.com/watch?v=VCzc5C6Gu5M)** — *Slimane*
-6. **[To France](https://music.youtube.com/watch?v=_o5a8GYxfdY)** — *Brisby & Jingles*
-7. **[In Da Club](https://music.youtube.com/watch?v=bykSx6ewuac)** — *50 Cent*
-8. **[Pop That (feat. Rick Ross, Drake & Lil Wayne)](https://music.youtube.com/watch?v=AujrL5yzF7E)** — *French Montana*
-9. **[Champagne](https://music.youtube.com/watch?v=hcNyYyvUw7Q)** — *Suzane*
-10. **[Mafia Music](https://music.youtube.com/watch?v=CiyKkCEQPHg)** — *Rick Ross*
-11. **[Born To Be Alive](https://music.youtube.com/watch?v=iGSLev5edOk)** — *50 Tubes Du Top*
-12. **[Et si tu n'existais pas](https://music.youtube.com/watch?v=EJLDd-VOH1U)** — *Joe Dassin*
-13. **[To France](https://music.youtube.com/watch?v=M5jphuDsNj0)** — *Micast & Kya*
-14. **[La vie qu'on mène](https://music.youtube.com/watch?v=BJwovrr6XzI)** — *Ninho*
-15. **[Je veux](https://music.youtube.com/watch?v=Z7cuTnbF-2c)** — *Zaz*
+3. **[Olé](https://music.youtube.com/watch?v=F4R5FU-Cto4)** — *Renaud*
+4. **[Jerusalema (feat. Nomcebo Zikode)](https://music.youtube.com/watch?v=sHatfoYEQo0)** — *Master KG*
+5. **[Voyage, Voyage](https://music.youtube.com/watch?v=dB_c7oZWo1g)** — *DESIRELESS*
+6. **[A.W.A](https://music.youtube.com/watch?v=pr2jXZBmgjo)** — *Lacrim, French Montana*
+7. **[Briller (Golden - version française)](https://music.youtube.com/watch?v=WuT1uUtM0mk)** — *HUNTR/X, Alexiane Broque, Jeanne Jérosme, Clotilde Verry*
+8. **[Asalto](https://music.youtube.com/watch?v=pCJQcY-opPk)** — *JUL*
+9. **[World Cup](https://music.youtube.com/watch?v=8SvAif6uu6k)** — *iShowSpeed*
+10. **[Djadja](https://music.youtube.com/watch?v=9d5_eWVecaM)** — *Aya Nakamura*
+11. **[La foule](https://music.youtube.com/watch?v=ShmWmMWI8rY)** — *Youssoupha*
+12. **[FRANCE FREESTYLE](https://music.youtube.com/watch?v=w4anGgcIL_s)** — *Baby Keem*
+13. **[T'en Va pas](https://music.youtube.com/watch?v=jkWbDULlZew)** — *50 Tubes Du Top*
+14. **[PARISIENNE](https://music.youtube.com/watch?v=ERk4Lx-mOqQ)** — *GIMS, La Mano 1.9*
+15. **[Magic in the Air (feat. Ahmed Chawki)](https://music.youtube.com/watch?v=QkB5KGoY5G8)** — *Magic System*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
