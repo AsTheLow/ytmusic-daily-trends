@@ -1,22 +1,22 @@
-# 🎧 Ma Playlist Découverte du Jour (12/08/2026)
+# 🎧 Ma Playlist Découverte du Jour (13/08/2026)
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[P.I.M.P. (Snoop Dogg Remix) (feat. Snoop Dogg)](https://music.youtube.com/watch?v=0FYHqh3O4AM)** — *50 Cent*
-2. **[Shape of You](https://music.youtube.com/watch?v=xTvyyoF_LZY)** — *Ed Sheeran*
-3. **[Magic in the Air (feat. Ahmed Chawki)](https://music.youtube.com/watch?v=QkB5KGoY5G8)** — *Magic System*
-4. **[Suavemente](https://music.youtube.com/watch?v=PBllSMFHE7I)** — *Soolking*
-5. **[Goodbye Marilou](https://music.youtube.com/watch?v=oZYMD0uzTF0)** — *50 Tubes Du Top*
-6. **[To France](https://music.youtube.com/watch?v=M5jphuDsNj0)** — *Micast & Kya*
-7. **[Jerusalema (feat. Nomcebo Zikode)](https://music.youtube.com/watch?v=sHatfoYEQo0)** — *Master KG*
-8. **[Alexandrie Alexandra](https://music.youtube.com/watch?v=P-WVG6GHh8g)** — *50 Tubes Du Top*
-9. **[PARISIENNE](https://music.youtube.com/watch?v=ERk4Lx-mOqQ)** — *GIMS, La Mano 1.9*
-10. **[Non, je ne regrette rien](https://music.youtube.com/watch?v=t6wjCcWC2aE)** — *Edith Piaf*
-11. **[To France](https://music.youtube.com/watch?v=XzZkaAqxqpk)** — *Brisby & Jingles*
-12. **[In Da Club](https://music.youtube.com/watch?v=bykSx6ewuac)** — *50 Cent*
-13. **[Wine Teasting in France](https://music.youtube.com/watch?v=ow5Ae54fKg0)** — *Florence Greeven*
-14. **[World Cup](https://music.youtube.com/watch?v=8SvAif6uu6k)** — *iShowSpeed*
-15. **[Belle-Île-en-Mer, Marie-Galante](https://music.youtube.com/watch?v=vguNaTxxG1g)** — *50 Tubes Au Top*
+1. **['50s French Movie](https://music.youtube.com/watch?v=EQQBx8YVoq8)** — *Carrie Rodriguez*
+2. **[Siffler sur la colline](https://music.youtube.com/watch?v=GhcRIVn66B8)** — *Joe Dassin*
+3. **[A.W.A](https://music.youtube.com/watch?v=pr2jXZBmgjo)** — *Lacrim, French Montana*
+4. **[Briller (Golden - version française)](https://music.youtube.com/watch?v=WuT1uUtM0mk)** — *HUNTR/X, Alexiane Broque, Jeanne Jérosme, Clotilde Verry*
+5. **[Dernière danse](https://music.youtube.com/watch?v=cKE4wJMcAkc)** — *Indila*
+6. **[Pop That (feat. Rick Ross, Drake & Lil Wayne)](https://music.youtube.com/watch?v=AujrL5yzF7E)** — *French Montana*
+7. **[Je te laisserai des mots](https://music.youtube.com/watch?v=mcdO9UP0hp8)** — *Patrick Watson*
+8. **[Unforgettable (feat. Swae Lee)](https://music.youtube.com/watch?v=48ydDUQ16RE)** — *French Montana*
+9. **[Papaoutai (Afro Soul) (Afro House Remix Edit)](https://music.youtube.com/watch?v=fbin7YW2Sl4)** — *Youssou Makeba*
+10. **[Voyage, Voyage](https://music.youtube.com/watch?v=dB_c7oZWo1g)** — *DESIRELESS*
+11. **[Mon amour](https://music.youtube.com/watch?v=VCzc5C6Gu5M)** — *Slimane*
+12. **[La foule](https://music.youtube.com/watch?v=ShmWmMWI8rY)** — *Youssoupha*
+13. **[To France](https://music.youtube.com/watch?v=_o5a8GYxfdY)** — *Brisby & Jingles*
+14. **[Goodbye Marilou](https://music.youtube.com/watch?v=oZYMD0uzTF0)** — *50 Tubes Du Top*
+15. **[Jerusalema (feat. Nomcebo Zikode)](https://music.youtube.com/watch?v=sHatfoYEQo0)** — *Master KG*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
