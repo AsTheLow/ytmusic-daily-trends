@@ -1,22 +1,22 @@
-# 🎧 Ma Playlist Découverte du Jour (16/08/2026)
+# 🎧 Ma Playlist Découverte du Jour (17/08/2026)
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[Blinding Lights](https://music.youtube.com/watch?v=J7p4bzqLvCw)** — *The Weeknd*
-2. **[Les Champs-Elysées](https://music.youtube.com/watch?v=pvgjEdnTgXA)** — *Joe Dassin*
-3. **[Papaoutai (Afro Soul) (Afro House Remix Edit)](https://music.youtube.com/watch?v=fbin7YW2Sl4)** — *Youssou Makeba*
-4. **[Ma Philosophie](https://music.youtube.com/watch?v=kTzMPSc5IWk)** — *50 Tubes Du Top*
-5. **[La Maritza](https://music.youtube.com/watch?v=7GoWxSF5qus)** — *Sylvie Vartan*
-6. **[Dernière danse](https://music.youtube.com/watch?v=cKE4wJMcAkc)** — *Indila*
-7. **[Afro Trap Pt. 7 (La puissance)](https://music.youtube.com/watch?v=ZuYyv5-0p2c)** — *MHD*
-8. **[Unforgettable (feat. Swae Lee)](https://music.youtube.com/watch?v=48ydDUQ16RE)** — *French Montana*
-9. **[Jerusalema (feat. Nomcebo Zikode)](https://music.youtube.com/watch?v=sHatfoYEQo0)** — *Master KG*
-10. **[Et si tu n'existais pas](https://music.youtube.com/watch?v=EJLDd-VOH1U)** — *Joe Dassin*
-11. **[Shape of You](https://music.youtube.com/watch?v=xTvyyoF_LZY)** — *Ed Sheeran*
-12. **[Alors on danse (Radio Edit)](https://music.youtube.com/watch?v=gUbeQ7eb3nc)** — *Stromae*
-13. **[Non, je ne regrette rien](https://music.youtube.com/watch?v=t6wjCcWC2aE)** — *Edith Piaf*
-14. **[Est-ce que tu m'aimes ? (Pilule bleue)](https://music.youtube.com/watch?v=ErFyeO-MppU)** — *GIMS*
-15. **[Tout donner (Pilule violette)](https://music.youtube.com/watch?v=9xKFWgkVQZw)** — *GIMS*
+1. **[La Foule](https://music.youtube.com/watch?v=o2Tz1yV48NQ)** — *Edith Piaf*
+2. **[Mafia Music](https://music.youtube.com/watch?v=CiyKkCEQPHg)** — *Rick Ross*
+3. **[Tout donner (Pilule violette)](https://music.youtube.com/watch?v=9xKFWgkVQZw)** — *GIMS*
+4. **[BTS | FIFA World Cup 2026™ Final Halftime Show | Full Performance](https://music.youtube.com/watch?v=E3nWu1VgRJU)** — *FIFA*
+5. **[Par amour (feat. Maître Gims)](https://music.youtube.com/watch?v=o9qhBzuqwCg)** — *Dadju*
+6. **[Quand on n'a que l'amour](https://music.youtube.com/watch?v=XwRGTbedbCg)** — *Jacques Brel*
+7. **[Born To Be Alive](https://music.youtube.com/watch?v=iGSLev5edOk)** — *50 Tubes Du Top*
+8. **[Je combats avec mes démons](https://music.youtube.com/watch?v=Zb20pY-E3U8)** — *Akhenaton*
+9. **[Voyage, Voyage](https://music.youtube.com/watch?v=dB_c7oZWo1g)** — *DESIRELESS*
+10. **[Love Story](https://music.youtube.com/watch?v=4TIGwaBHuzg)** — *Indila*
+11. **[P.I.M.P. (Snoop Dogg Remix) (feat. Snoop Dogg)](https://music.youtube.com/watch?v=0FYHqh3O4AM)** — *50 Cent*
+12. **[PARISIENNE](https://music.youtube.com/watch?v=ERk4Lx-mOqQ)** — *GIMS, La Mano 1.9*
+13. **[Dreamers (Music from the FIFA World Cup Qatar 2022 Official Soundtrack) (feat. FIFA Sound)](https://music.youtube.com/watch?v=6qI-va1F5ck)** — *Jung Kook*
+14. **[Et si tu n'existais pas](https://music.youtube.com/watch?v=EJLDd-VOH1U)** — *Joe Dassin*
+15. **[Ma Philosophie](https://music.youtube.com/watch?v=kTzMPSc5IWk)** — *50 Tubes Du Top*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
