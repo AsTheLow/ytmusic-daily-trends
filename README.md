@@ -2,21 +2,21 @@
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[La Foule](https://music.youtube.com/watch?v=o2Tz1yV48NQ)** — *Edith Piaf*
-2. **[Mafia Music](https://music.youtube.com/watch?v=CiyKkCEQPHg)** — *Rick Ross*
-3. **[Tout donner (Pilule violette)](https://music.youtube.com/watch?v=9xKFWgkVQZw)** — *GIMS*
-4. **[BTS | FIFA World Cup 2026™ Final Halftime Show | Full Performance](https://music.youtube.com/watch?v=E3nWu1VgRJU)** — *FIFA*
-5. **[Par amour (feat. Maître Gims)](https://music.youtube.com/watch?v=o9qhBzuqwCg)** — *Dadju*
-6. **[Quand on n'a que l'amour](https://music.youtube.com/watch?v=XwRGTbedbCg)** — *Jacques Brel*
-7. **[Born To Be Alive](https://music.youtube.com/watch?v=iGSLev5edOk)** — *50 Tubes Du Top*
-8. **[Je combats avec mes démons](https://music.youtube.com/watch?v=Zb20pY-E3U8)** — *Akhenaton*
-9. **[Voyage, Voyage](https://music.youtube.com/watch?v=dB_c7oZWo1g)** — *DESIRELESS*
-10. **[Love Story](https://music.youtube.com/watch?v=4TIGwaBHuzg)** — *Indila*
-11. **[P.I.M.P. (Snoop Dogg Remix) (feat. Snoop Dogg)](https://music.youtube.com/watch?v=0FYHqh3O4AM)** — *50 Cent*
-12. **[PARISIENNE](https://music.youtube.com/watch?v=ERk4Lx-mOqQ)** — *GIMS, La Mano 1.9*
-13. **[Dreamers (Music from the FIFA World Cup Qatar 2022 Official Soundtrack) (feat. FIFA Sound)](https://music.youtube.com/watch?v=6qI-va1F5ck)** — *Jung Kook*
-14. **[Et si tu n'existais pas](https://music.youtube.com/watch?v=EJLDd-VOH1U)** — *Joe Dassin*
-15. **[Ma Philosophie](https://music.youtube.com/watch?v=kTzMPSc5IWk)** — *50 Tubes Du Top*
+1. **[Je combats avec mes démons](https://music.youtube.com/watch?v=Zb20pY-E3U8)** — *Akhenaton*
+2. **[Aïcha (Version Mixte)](https://music.youtube.com/watch?v=6EkfwIPb9iU)** — *Khaled*
+3. **[Sur ma route](https://music.youtube.com/watch?v=U-Z_bZS8t3M)** — *Black M*
+4. **[Alors on danse (Radio Edit)](https://music.youtube.com/watch?v=gUbeQ7eb3nc)** — *Stromae*
+5. **[Dolce Camara](https://music.youtube.com/watch?v=AgFG6_TGdTY)** — *Booba, SDM*
+6. **[Copines](https://music.youtube.com/watch?v=aykb9pGfTR4)** — *Aya Nakamura*
+7. **[Jerusalema (feat. Nomcebo Zikode)](https://music.youtube.com/watch?v=sHatfoYEQo0)** — *Master KG*
+8. **[La foule](https://music.youtube.com/watch?v=ShmWmMWI8rY)** — *Youssoupha*
+9. **[Aston Martin Music (feat. Drake & Chrisette Michele)](https://music.youtube.com/watch?v=bQ7uLY_eMRY)** — *Rick Ross*
+10. **[Est-ce que tu m'aimes ? (Pilule bleue)](https://music.youtube.com/watch?v=ErFyeO-MppU)** — *GIMS*
+11. **[La Foule](https://music.youtube.com/watch?v=o2Tz1yV48NQ)** — *Edith Piaf*
+12. **[Love Story](https://music.youtube.com/watch?v=4TIGwaBHuzg)** — *Indila*
+13. **[Générique Top 50 (feat. P. Lion)](https://music.youtube.com/watch?v=R60bVh6Wj-A)** — *Anders Enger Jensen*
+14. **[Foule sentimentale](https://music.youtube.com/watch?v=Eoy1Iik9Ens)** — *Alain Souchon*
+15. **[Afro Trap Pt. 7 (La puissance)](https://music.youtube.com/watch?v=ZuYyv5-0p2c)** — *MHD*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
