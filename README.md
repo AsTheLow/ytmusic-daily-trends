@@ -2,21 +2,21 @@
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[Unforgettable (feat. Swae Lee)](https://music.youtube.com/watch?v=48ydDUQ16RE)** — *French Montana*
-2. **[Mafia Music](https://music.youtube.com/watch?v=CiyKkCEQPHg)** — *Rick Ross*
-3. **[Le Festin](https://music.youtube.com/watch?v=-QuVe-hjMs0)** — *Camille, Michael Giacchino*
-4. **[Générique Top 50 (feat. P. Lion)](https://music.youtube.com/watch?v=R60bVh6Wj-A)** — *Anders Enger Jensen*
-5. **[Foule sentimentale](https://music.youtube.com/watch?v=Eoy1Iik9Ens)** — *Alain Souchon*
-6. **[Goodbye Marilou](https://music.youtube.com/watch?v=oZYMD0uzTF0)** — *50 Tubes Du Top*
-7. **[Belle Ile En Mer](https://music.youtube.com/watch?v=JEBTbtyGv84)** — *50 Tubes Du Top*
-8. **[To France](https://music.youtube.com/watch?v=M5jphuDsNj0)** — *Micast & Kya*
-9. **[Hotel California](https://music.youtube.com/watch?v=BciS5krYL80)** — *Eagles*
-10. **[Dolce Camara](https://music.youtube.com/watch?v=AgFG6_TGdTY)** — *Booba, SDM*
-11. **['50s French Movie](https://music.youtube.com/watch?v=EQQBx8YVoq8)** — *Carrie Rodriguez*
-12. **[Belle-Île-en-Mer, Marie-Galante](https://music.youtube.com/watch?v=vguNaTxxG1g)** — *50 Tubes Au Top*
-13. **[Moi... Lolita](https://music.youtube.com/watch?v=TYcGedAkXio)** — *Alizée*
-14. **[Full Mix Bonus : Nostalgie 80 (Album Complet)](https://music.youtube.com/watch?v=U7Z8Z0DvS2c)** — *Nostalgie 80*
-15. **[Les Démons De Minuit](https://music.youtube.com/watch?v=YrAPeYHX_yE)** — *50 Tubes Du Top*
+1. **[Papaoutai (Afro Soul) (Afro House Remix Edit)](https://music.youtube.com/watch?v=fbin7YW2Sl4)** — *Youssou Makeba*
+2. **[Shape of You](https://music.youtube.com/watch?v=xTvyyoF_LZY)** — *Ed Sheeran*
+3. **[Moi... Lolita](https://music.youtube.com/watch?v=TYcGedAkXio)** — *Alizée*
+4. **[T'es OK, T'es Bath, T'es In](https://music.youtube.com/watch?v=rDNBMpJVPC4)** — *Ottawan*
+5. **[Belle-Île-en-Mer, Marie-Galante](https://music.youtube.com/watch?v=vguNaTxxG1g)** — *50 Tubes Au Top*
+6. **[La tribu de Dana](https://music.youtube.com/watch?v=GuyvZp_cM0c)** — *Manau*
+7. **[The Cup of Life (La Copa De La Vida) [The Official Song of the World Cup, France '98][English]](https://music.youtube.com/watch?v=11x7crPnOF4)** — *Ricky Martin*
+8. **[Le Festin](https://music.youtube.com/watch?v=-QuVe-hjMs0)** — *Camille, Michael Giacchino*
+9. **[Dreamers (Music from the FIFA World Cup Qatar 2022 Official Soundtrack) (feat. FIFA Sound)](https://music.youtube.com/watch?v=6qI-va1F5ck)** — *Jung Kook*
+10. **[Goodbye Marilou](https://music.youtube.com/watch?v=oZYMD0uzTF0)** — *50 Tubes Du Top*
+11. **[Zouk la sé sél médikaman nou ni](https://music.youtube.com/watch?v=_FJ03NjJEUY)** — *Kassav'*
+12. **[Love Story](https://music.youtube.com/watch?v=4TIGwaBHuzg)** — *Indila*
+13. **[Je veux](https://music.youtube.com/watch?v=Z7cuTnbF-2c)** — *Zaz*
+14. **[T'en Va pas](https://music.youtube.com/watch?v=jkWbDULlZew)** — *50 Tubes Du Top*
+15. **[La Foule](https://music.youtube.com/watch?v=o2Tz1yV48NQ)** — *Edith Piaf*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
