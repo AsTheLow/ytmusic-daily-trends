@@ -1,22 +1,22 @@
-# 🎧 Ma Playlist Découverte du Jour (21/08/2026)
+# 🎧 Ma Playlist Découverte du Jour (22/08/2026)
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[Full Mix Bonus : Nostalgie 80 (Album Complet)](https://music.youtube.com/watch?v=U7Z8Z0DvS2c)** — *Nostalgie 80*
-2. **[Les Démons De Minuit](https://music.youtube.com/watch?v=YrAPeYHX_yE)** — *50 Tubes Du Top*
-3. **[Belle-Île-en-Mer, Marie-Galante](https://music.youtube.com/watch?v=vguNaTxxG1g)** — *50 Tubes Au Top*
-4. **[Foule sentimentale](https://music.youtube.com/watch?v=Eoy1Iik9Ens)** — *Alain Souchon*
-5. **[Magic in the Air (feat. Ahmed Chawki)](https://music.youtube.com/watch?v=QkB5KGoY5G8)** — *Magic System*
-6. **[Alexandrie Alexandra](https://music.youtube.com/watch?v=P-WVG6GHh8g)** — *50 Tubes Du Top*
-7. **[T'es OK, T'es Bath, T'es In](https://music.youtube.com/watch?v=rDNBMpJVPC4)** — *Ottawan*
-8. **[Suavemente](https://music.youtube.com/watch?v=PBllSMFHE7I)** — *Soolking*
-9. **[In Da Club](https://music.youtube.com/watch?v=bykSx6ewuac)** — *50 Cent*
-10. **[T'en Va pas](https://music.youtube.com/watch?v=jkWbDULlZew)** — *50 Tubes Du Top*
-11. **[P.I.M.P. (Snoop Dogg Remix) (feat. Snoop Dogg)](https://music.youtube.com/watch?v=0FYHqh3O4AM)** — *50 Cent*
-12. **[Hotel California](https://music.youtube.com/watch?v=BciS5krYL80)** — *Eagles*
-13. **[Générique Top 50 (feat. P. Lion)](https://music.youtube.com/watch?v=R60bVh6Wj-A)** — *Anders Enger Jensen*
-14. **[Désolé](https://music.youtube.com/watch?v=Wv6I6okZgVc)** — *Sexion d'Assaut*
-15. **[Belle Ile En Mer](https://music.youtube.com/watch?v=JEBTbtyGv84)** — *50 Tubes Du Top*
+1. **[Dreamers (Music from the FIFA World Cup Qatar 2022 Official Soundtrack) (feat. FIFA Sound)](https://music.youtube.com/watch?v=6qI-va1F5ck)** — *Jung Kook*
+2. **[Unforgettable (feat. Swae Lee)](https://music.youtube.com/watch?v=48ydDUQ16RE)** — *French Montana*
+3. **[Ma Philosophie](https://music.youtube.com/watch?v=kTzMPSc5IWk)** — *50 Tubes Du Top*
+4. **[Je te laisserai des mots](https://music.youtube.com/watch?v=mcdO9UP0hp8)** — *Patrick Watson*
+5. **[Pop That (feat. Rick Ross, Drake & Lil Wayne)](https://music.youtube.com/watch?v=AujrL5yzF7E)** — *French Montana*
+6. **[T'es OK, T'es Bath, T'es In](https://music.youtube.com/watch?v=rDNBMpJVPC4)** — *Ottawan*
+7. **[Non, je ne regrette rien](https://music.youtube.com/watch?v=t6wjCcWC2aE)** — *Edith Piaf*
+8. **[PARISIENNE](https://music.youtube.com/watch?v=ERk4Lx-mOqQ)** — *GIMS, La Mano 1.9*
+9. **[Copines](https://music.youtube.com/watch?v=aykb9pGfTR4)** — *Aya Nakamura*
+10. **[Hotel California](https://music.youtube.com/watch?v=BciS5krYL80)** — *Eagles*
+11. **[Jerusalema (feat. Nomcebo Zikode)](https://music.youtube.com/watch?v=sHatfoYEQo0)** — *Master KG*
+12. **[Djadja](https://music.youtube.com/watch?v=9d5_eWVecaM)** — *Aya Nakamura*
+13. **[Le Festin](https://music.youtube.com/watch?v=-QuVe-hjMs0)** — *Camille, Michael Giacchino*
+14. **[Papaoutai (Afro Soul) (Afro House Remix Edit)](https://music.youtube.com/watch?v=fbin7YW2Sl4)** — *Youssou Makeba*
+15. **[Alors on danse (Radio Edit)](https://music.youtube.com/watch?v=gUbeQ7eb3nc)** — *Stromae*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
