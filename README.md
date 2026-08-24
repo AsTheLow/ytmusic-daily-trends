@@ -2,21 +2,21 @@
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[Stay Schemin (feat. Drake)](https://music.youtube.com/watch?v=Ygb8BRdl2kI)** — *French Montana, Rick Ross*
-2. **[Champagne](https://music.youtube.com/watch?v=hcNyYyvUw7Q)** — *Suzane*
-3. **[Jerusalema (feat. Nomcebo Zikode)](https://music.youtube.com/watch?v=sHatfoYEQo0)** — *Master KG*
-4. **[Belle Ile En Mer](https://music.youtube.com/watch?v=JEBTbtyGv84)** — *50 Tubes Du Top*
-5. **[Dai Dai](https://music.youtube.com/watch?v=lFQdcPTTzSg)** — *Shakira, Burna Boy*
-6. **[Mafia Music](https://music.youtube.com/watch?v=CiyKkCEQPHg)** — *Rick Ross*
-7. **[Voyage, Voyage](https://music.youtube.com/watch?v=dB_c7oZWo1g)** — *DESIRELESS*
-8. **[Siffler sur la colline](https://music.youtube.com/watch?v=GhcRIVn66B8)** — *Joe Dassin*
-9. **[Born To Be Alive](https://music.youtube.com/watch?v=iGSLev5edOk)** — *50 Tubes Du Top*
-10. **[FRANCE FREESTYLE](https://music.youtube.com/watch?v=w4anGgcIL_s)** — *Baby Keem*
-11. **[Alexandrie Alexandra](https://music.youtube.com/watch?v=P-WVG6GHh8g)** — *50 Tubes Du Top*
-12. **[To France](https://music.youtube.com/watch?v=M5jphuDsNj0)** — *Micast & Kya*
-13. **[In Da Club](https://music.youtube.com/watch?v=bykSx6ewuac)** — *50 Cent*
-14. **[Générique Top 50 (feat. P. Lion)](https://music.youtube.com/watch?v=R60bVh6Wj-A)** — *Anders Enger Jensen*
-15. **[Olé](https://music.youtube.com/watch?v=F4R5FU-Cto4)** — *Renaud*
+1. **[Je veux](https://music.youtube.com/watch?v=Z7cuTnbF-2c)** — *Zaz*
+2. **[To France](https://music.youtube.com/watch?v=KrFD02bOJ3g)** — *Mike Oldfield*
+3. **[Le Festin](https://music.youtube.com/watch?v=-QuVe-hjMs0)** — *Camille, Michael Giacchino*
+4. **[La foule](https://music.youtube.com/watch?v=ShmWmMWI8rY)** — *Youssoupha*
+5. **[Voyage, Voyage](https://music.youtube.com/watch?v=dB_c7oZWo1g)** — *DESIRELESS*
+6. **[Belle Ile En Mer](https://music.youtube.com/watch?v=JEBTbtyGv84)** — *50 Tubes Du Top*
+7. **[Dreamers (Music from the FIFA World Cup Qatar 2022 Official Soundtrack) (feat. FIFA Sound)](https://music.youtube.com/watch?v=6qI-va1F5ck)** — *Jung Kook*
+8. **[Ramenez la coupe à la maison](https://music.youtube.com/watch?v=Y5AO9oONTvk)** — *Vegedream*
+9. **[Une Femme Avec Une Femme](https://music.youtube.com/watch?v=NKA5HCKuliY)** — *50 Tubes Du Top*
+10. **[Pop That (feat. Rick Ross, Drake & Lil Wayne)](https://music.youtube.com/watch?v=AujrL5yzF7E)** — *French Montana*
+11. **[Jerusalema (feat. Nomcebo Zikode)](https://music.youtube.com/watch?v=sHatfoYEQo0)** — *Master KG*
+12. **[When It Rains It Pours](https://music.youtube.com/watch?v=6nLfSN2u5gg)** — *50 Cent*
+13. **[Pavane Op.50](https://music.youtube.com/watch?v=ZY1vu1YMFTo)** — *Pairs France Royal Philharmonic Orchestra*
+14. **[Unforgettable (feat. Swae Lee)](https://music.youtube.com/watch?v=48ydDUQ16RE)** — *French Montana*
+15. **[Copines](https://music.youtube.com/watch?v=aykb9pGfTR4)** — *Aya Nakamura*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
