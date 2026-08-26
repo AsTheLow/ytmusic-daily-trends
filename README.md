@@ -1,22 +1,22 @@
-# 🎧 Ma Playlist Découverte du Jour (25/08/2026)
+# 🎧 Ma Playlist Découverte du Jour (26/08/2026)
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[World Cup](https://music.youtube.com/watch?v=8SvAif6uu6k)** — *iShowSpeed*
-2. **[Copines](https://music.youtube.com/watch?v=aykb9pGfTR4)** — *Aya Nakamura*
-3. **[Pop That (feat. Rick Ross, Drake & Lil Wayne)](https://music.youtube.com/watch?v=AujrL5yzF7E)** — *French Montana*
-4. **[Unforgettable (feat. Swae Lee)](https://music.youtube.com/watch?v=48ydDUQ16RE)** — *French Montana*
-5. **[Stay Schemin (feat. Drake)](https://music.youtube.com/watch?v=Ygb8BRdl2kI)** — *French Montana, Rick Ross*
-6. **[Je veux](https://music.youtube.com/watch?v=Z7cuTnbF-2c)** — *Zaz*
-7. **[Hate It Or Love It (feat. 50 Cent)](https://music.youtube.com/watch?v=B_1moEBS4TE)** — *The Game*
-8. **[La foule](https://music.youtube.com/watch?v=ShmWmMWI8rY)** — *Youssoupha*
-9. **[Ramenez la coupe à la maison](https://music.youtube.com/watch?v=Y5AO9oONTvk)** — *Vegedream*
-10. **[Dreamers (Music from the FIFA World Cup Qatar 2022 Official Soundtrack) (feat. FIFA Sound)](https://music.youtube.com/watch?v=6qI-va1F5ck)** — *Jung Kook*
-11. **[Foule sentimentale](https://music.youtube.com/watch?v=Eoy1Iik9Ens)** — *Alain Souchon*
-12. **[La Foule](https://music.youtube.com/watch?v=o2Tz1yV48NQ)** — *Edith Piaf*
-13. **[Goodbye Marilou](https://music.youtube.com/watch?v=oZYMD0uzTF0)** — *50 Tubes Du Top*
-14. **[P.I.M.P. (Snoop Dogg Remix) (feat. Snoop Dogg)](https://music.youtube.com/watch?v=0FYHqh3O4AM)** — *50 Cent*
-15. **[Pavane Op.50](https://music.youtube.com/watch?v=ZY1vu1YMFTo)** — *Pairs France Royal Philharmonic Orchestra*
+1. **[When It Rains It Pours](https://music.youtube.com/watch?v=6nLfSN2u5gg)** — *50 Cent*
+2. **[Dai Dai](https://music.youtube.com/watch?v=lFQdcPTTzSg)** — *Shakira, Burna Boy*
+3. **[Goodbye Marilou](https://music.youtube.com/watch?v=oZYMD0uzTF0)** — *50 Tubes Du Top*
+4. **[Beau malheur](https://music.youtube.com/watch?v=3kmB87yen5I)** — *Hits Variété Pop*
+5. **[Je te laisserai des mots](https://music.youtube.com/watch?v=mcdO9UP0hp8)** — *Patrick Watson*
+6. **[T'es OK, T'es Bath, T'es In](https://music.youtube.com/watch?v=rDNBMpJVPC4)** — *Ottawan*
+7. **[Asalto](https://music.youtube.com/watch?v=pCJQcY-opPk)** — *JUL*
+8. **[Love Story](https://music.youtube.com/watch?v=4TIGwaBHuzg)** — *Indila*
+9. **[Ramenez la coupe à la maison](https://music.youtube.com/watch?v=jOF-P-vHQcc)** — *Vegedream*
+10. **[Belle Ile En Mer](https://music.youtube.com/watch?v=JEBTbtyGv84)** — *50 Tubes Du Top*
+11. **[Amour plastique](https://music.youtube.com/watch?v=6hQ14m3UEVI)** — *Videoclub, Adèle Castillon, Mattyeux*
+12. **[Zouk la sé sél médikaman nou ni](https://music.youtube.com/watch?v=_FJ03NjJEUY)** — *Kassav'*
+13. **[Jerusalema (feat. Nomcebo Zikode)](https://music.youtube.com/watch?v=sHatfoYEQo0)** — *Master KG*
+14. **[Suavemente](https://music.youtube.com/watch?v=PBllSMFHE7I)** — *Soolking*
+15. **[Magic in the Air (feat. Ahmed Chawki)](https://music.youtube.com/watch?v=QkB5KGoY5G8)** — *Magic System*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
