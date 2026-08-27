@@ -1,22 +1,22 @@
-# 🎧 Ma Playlist Découverte du Jour (26/08/2026)
+# 🎧 Ma Playlist Découverte du Jour (27/08/2026)
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[Une Femme Avec Une Femme](https://music.youtube.com/watch?v=NKA5HCKuliY)** — *50 Tubes Du Top*
-2. **[World Cup](https://music.youtube.com/watch?v=8SvAif6uu6k)** — *iShowSpeed*
-3. **[Belle-Île-en-Mer, Marie-Galante](https://music.youtube.com/watch?v=vguNaTxxG1g)** — *50 Tubes Au Top*
-4. **[Aston Martin Music (feat. Drake & Chrisette Michele)](https://music.youtube.com/watch?v=bQ7uLY_eMRY)** — *Rick Ross*
-5. **[Je veux](https://music.youtube.com/watch?v=Z7cuTnbF-2c)** — *Zaz*
-6. **[T'es OK, T'es Bath, T'es In](https://music.youtube.com/watch?v=rDNBMpJVPC4)** — *Ottawan*
-7. **[Copines](https://music.youtube.com/watch?v=aykb9pGfTR4)** — *Aya Nakamura*
-8. **[Born To Be Alive](https://music.youtube.com/watch?v=iGSLev5edOk)** — *50 Tubes Du Top*
-9. **[When It Rains It Pours](https://music.youtube.com/watch?v=6nLfSN2u5gg)** — *50 Cent*
-10. **[Alexandrie Alexandra](https://music.youtube.com/watch?v=P-WVG6GHh8g)** — *50 Tubes Du Top*
-11. **[Papaoutai (Afro Soul) (Afro House Remix Edit)](https://music.youtube.com/watch?v=fbin7YW2Sl4)** — *Youssou Makeba*
-12. **[Ma Philosophie](https://music.youtube.com/watch?v=kTzMPSc5IWk)** — *50 Tubes Du Top*
-13. **[In Da Club](https://music.youtube.com/watch?v=bykSx6ewuac)** — *50 Cent*
-14. **[Alors on danse (Radio Edit)](https://music.youtube.com/watch?v=gUbeQ7eb3nc)** — *Stromae*
-15. **[Ever Since U Left Me (I Went Deaf)](https://music.youtube.com/watch?v=Yqb8vZoDfvI)** — *French Montana, Max B*
+1. **[The Best of Edith Piaf Medley: Non, je ne regrette rien / La vie en rose / Hymne à l'amour / Mon manège à moi / La foule / Padam / Milord / Sous le ciel de Paris / L'accordéoniste / Johnny tu n'es pas un ange / L'homme à la moto / Les trois cloches /](https://music.youtube.com/watch?v=FuXJWb9iSI0)** — *Édith Piaf*
+2. **[Tout donner (Pilule violette)](https://music.youtube.com/watch?v=9xKFWgkVQZw)** — *GIMS*
+3. **[Alors on danse (Radio Edit)](https://music.youtube.com/watch?v=SXoQHp2cQQc)** — *Stromae*
+4. **[Full Mix Bonus : Nostalgie 80 (Album Complet)](https://music.youtube.com/watch?v=U7Z8Z0DvS2c)** — *Nostalgie 80*
+5. **[Stay Schemin (feat. Drake)](https://music.youtube.com/watch?v=Ygb8BRdl2kI)** — *French Montana, Rick Ross*
+6. **[Je veux](https://music.youtube.com/watch?v=Z7cuTnbF-2c)** — *Zaz*
+7. **[Désolé](https://music.youtube.com/watch?v=Wv6I6okZgVc)** — *Sexion d'Assaut*
+8. **[I Drink Wine](https://music.youtube.com/watch?v=GDdoEZL3vJg)** — *Adele*
+9. **[Hotel California](https://music.youtube.com/watch?v=BciS5krYL80)** — *Eagles*
+10. **[La vie en rose](https://music.youtube.com/watch?v=a8YOPOpZdwQ)** — *Édith Piaf*
+11. **[Boum ! (From "Skyfall")](https://music.youtube.com/watch?v=22IG5Wy-AsU)** — *Charles Trenet*
+12. **[Tourner Dans Le Vide](https://music.youtube.com/watch?v=ONlMB2oGWwE)** — *Indila*
+13. **[Générique Top 50 (feat. P. Lion)](https://music.youtube.com/watch?v=R60bVh6Wj-A)** — *Anders Enger Jensen*
+14. **[Et si tu n'existais pas](https://music.youtube.com/watch?v=EJLDd-VOH1U)** — *Joe Dassin*
+15. **[Ultimate Juke-Box Hits of the 50S & 60S Medley 1: The Loco-Motion / Surfin' Safari / Let's Dance / Runaway / Love Me Do / Reet Petite / Big Bad John / Bobby's Girl / A Hundred Pounds of Clay / The Girl of My Best Friend / Walk Right Back / Stupid Cupid /](https://music.youtube.com/watch?v=Y_ZYnNmoAsY)** — *Various Artists*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
