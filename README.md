@@ -1,22 +1,22 @@
-# 🎧 Ma Playlist Découverte du Jour (27/08/2026)
+# 🎧 Ma Playlist Découverte du Jour (28/08/2026)
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[The Best of Edith Piaf Medley: Non, je ne regrette rien / La vie en rose / Hymne à l'amour / Mon manège à moi / La foule / Padam / Milord / Sous le ciel de Paris / L'accordéoniste / Johnny tu n'es pas un ange / L'homme à la moto / Les trois cloches /](https://music.youtube.com/watch?v=FuXJWb9iSI0)** — *Édith Piaf*
-2. **[Tout donner (Pilule violette)](https://music.youtube.com/watch?v=9xKFWgkVQZw)** — *GIMS*
-3. **[Alors on danse (Radio Edit)](https://music.youtube.com/watch?v=SXoQHp2cQQc)** — *Stromae*
-4. **[Full Mix Bonus : Nostalgie 80 (Album Complet)](https://music.youtube.com/watch?v=U7Z8Z0DvS2c)** — *Nostalgie 80*
-5. **[Stay Schemin (feat. Drake)](https://music.youtube.com/watch?v=Ygb8BRdl2kI)** — *French Montana, Rick Ross*
-6. **[Je veux](https://music.youtube.com/watch?v=Z7cuTnbF-2c)** — *Zaz*
-7. **[Désolé](https://music.youtube.com/watch?v=Wv6I6okZgVc)** — *Sexion d'Assaut*
-8. **[I Drink Wine](https://music.youtube.com/watch?v=GDdoEZL3vJg)** — *Adele*
-9. **[Hotel California](https://music.youtube.com/watch?v=BciS5krYL80)** — *Eagles*
-10. **[La vie en rose](https://music.youtube.com/watch?v=a8YOPOpZdwQ)** — *Édith Piaf*
-11. **[Boum ! (From "Skyfall")](https://music.youtube.com/watch?v=22IG5Wy-AsU)** — *Charles Trenet*
-12. **[Tourner Dans Le Vide](https://music.youtube.com/watch?v=ONlMB2oGWwE)** — *Indila*
-13. **[Générique Top 50 (feat. P. Lion)](https://music.youtube.com/watch?v=R60bVh6Wj-A)** — *Anders Enger Jensen*
-14. **[Et si tu n'existais pas](https://music.youtube.com/watch?v=EJLDd-VOH1U)** — *Joe Dassin*
-15. **[Ultimate Juke-Box Hits of the 50S & 60S Medley 1: The Loco-Motion / Surfin' Safari / Let's Dance / Runaway / Love Me Do / Reet Petite / Big Bad John / Bobby's Girl / A Hundred Pounds of Clay / The Girl of My Best Friend / Walk Right Back / Stupid Cupid /](https://music.youtube.com/watch?v=Y_ZYnNmoAsY)** — *Various Artists*
+1. **[Aston Martin Music (feat. Drake & Chrisette Michele)](https://music.youtube.com/watch?v=bQ7uLY_eMRY)** — *Rick Ross*
+2. **[Stay Schemin (feat. Drake)](https://music.youtube.com/watch?v=Ygb8BRdl2kI)** — *French Montana, Rick Ross*
+3. **[Générique Top 50 (feat. P. Lion)](https://music.youtube.com/watch?v=R60bVh6Wj-A)** — *Anders Enger Jensen*
+4. **[Alexandrie Alexandra](https://music.youtube.com/watch?v=P-WVG6GHh8g)** — *50 Tubes Du Top*
+5. **[Voyage, Voyage](https://music.youtube.com/watch?v=dB_c7oZWo1g)** — *DESIRELESS*
+6. **[T'es OK, T'es Bath, T'es In](https://music.youtube.com/watch?v=rDNBMpJVPC4)** — *Ottawan*
+7. **[Off The Rip (feat. Chinx & N.O.R.E.)](https://music.youtube.com/watch?v=YDs5UnnavaI)** — *French Montana*
+8. **[Ramenez la coupe à la maison](https://music.youtube.com/watch?v=jOF-P-vHQcc)** — *Vegedream*
+9. **[Papaoutai (Afro Soul) (Afro House Remix Edit)](https://music.youtube.com/watch?v=fbin7YW2Sl4)** — *Youssou Makeba*
+10. **[Ramenez la coupe à la maison](https://music.youtube.com/watch?v=Y5AO9oONTvk)** — *Vegedream*
+11. **[Amour plastique](https://music.youtube.com/watch?v=6hQ14m3UEVI)** — *Videoclub, Adèle Castillon, Mattyeux*
+12. **[Full Mix Bonus : Nostalgie 80 (Album Complet)](https://music.youtube.com/watch?v=U7Z8Z0DvS2c)** — *Nostalgie 80*
+13. **[La Foule](https://music.youtube.com/watch?v=o2Tz1yV48NQ)** — *Edith Piaf*
+14. **[Foule sentimentale](https://music.youtube.com/watch?v=Eoy1Iik9Ens)** — *Alain Souchon*
+15. **[Désolé](https://music.youtube.com/watch?v=Wv6I6okZgVc)** — *Sexion d'Assaut*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
