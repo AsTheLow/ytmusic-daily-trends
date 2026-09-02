@@ -2,21 +2,21 @@
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[To France](https://music.youtube.com/watch?v=KrFD02bOJ3g)** — *Mike Oldfield*
-2. **[Hotel California](https://music.youtube.com/watch?v=BciS5krYL80)** — *Eagles*
-3. **[La Foule](https://music.youtube.com/watch?v=o2Tz1yV48NQ)** — *Edith Piaf*
-4. **[La foule](https://music.youtube.com/watch?v=ShmWmMWI8rY)** — *Youssoupha*
-5. **[Dai Dai](https://music.youtube.com/watch?v=lFQdcPTTzSg)** — *Shakira, Burna Boy*
-6. **[PARISIENNE](https://music.youtube.com/watch?v=ERk4Lx-mOqQ)** — *GIMS, La Mano 1.9*
-7. **[P.I.M.P. (Snoop Dogg Remix) (feat. Snoop Dogg)](https://music.youtube.com/watch?v=0FYHqh3O4AM)** — *50 Cent*
-8. **[A.W.A](https://music.youtube.com/watch?v=pr2jXZBmgjo)** — *Lacrim, French Montana*
-9. **[Tourner Dans Le Vide](https://music.youtube.com/watch?v=ONlMB2oGWwE)** — *Indila*
-10. **[Cosmo](https://music.youtube.com/watch?v=Mst7XVz_G24)** — *Soprano*
-11. **[Les Démons De Minuit](https://music.youtube.com/watch?v=YrAPeYHX_yE)** — *50 Tubes Du Top*
-12. **[Générique Top 50 (feat. P. Lion)](https://music.youtube.com/watch?v=R60bVh6Wj-A)** — *Anders Enger Jensen*
-13. **[Dreamers (Music from the FIFA World Cup Qatar 2022 Official Soundtrack) (feat. FIFA Sound)](https://music.youtube.com/watch?v=6qI-va1F5ck)** — *Jung Kook*
-14. **[Ella, elle l'a (Remasterisé en 2004)](https://music.youtube.com/watch?v=kTzhJfpJAgE)** — *France Gall*
-15. **[FRANCE FREESTYLE](https://music.youtube.com/watch?v=w4anGgcIL_s)** — *Baby Keem*
+1. **[Dai Dai](https://music.youtube.com/watch?v=lFQdcPTTzSg)** — *Shakira, Burna Boy*
+2. **[A.W.A](https://music.youtube.com/watch?v=pr2jXZBmgjo)** — *Lacrim, French Montana*
+3. **[Ramenez la coupe à la maison](https://music.youtube.com/watch?v=RHb5LKnnxLg)** — *Vegedream*
+4. **[Ella, elle l'a (Remasterisé en 2004)](https://music.youtube.com/watch?v=kTzhJfpJAgE)** — *France Gall*
+5. **[C’est la vie](https://music.youtube.com/watch?v=hToD6-5wJ_0)** — *Khaled*
+6. **[Shape of You](https://music.youtube.com/watch?v=xTvyyoF_LZY)** — *Ed Sheeran*
+7. **[Ma Philosophie](https://music.youtube.com/watch?v=kTzMPSc5IWk)** — *50 Tubes Du Top*
+8. **[Dernière danse](https://music.youtube.com/watch?v=cKE4wJMcAkc)** — *Indila*
+9. **[Et si tu n'existais pas](https://music.youtube.com/watch?v=EJLDd-VOH1U)** — *Joe Dassin*
+10. **[Ma direction](https://music.youtube.com/watch?v=_zExi90sw2U)** — *Sexion d'Assaut*
+11. **[Direct au top 50 (2020 Remaster)](https://music.youtube.com/watch?v=SzH94TnY7lk)** — *Gogol Premier*
+12. **[Le Festin](https://music.youtube.com/watch?v=-QuVe-hjMs0)** — *Camille, Michael Giacchino*
+13. **[Je te laisserai des mots](https://music.youtube.com/watch?v=mcdO9UP0hp8)** — *Patrick Watson*
+14. **[Asalto](https://music.youtube.com/watch?v=pCJQcY-opPk)** — *JUL*
+15. **[Hate It Or Love It (feat. 50 Cent)](https://music.youtube.com/watch?v=B_1moEBS4TE)** — *The Game*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
