@@ -1,22 +1,22 @@
-# 🎧 Ma Playlist Découverte du Jour (01/09/2026)
+# 🎧 Ma Playlist Découverte du Jour (02/09/2026)
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[Papaoutai (Afro Soul) (Afro House Remix Edit)](https://music.youtube.com/watch?v=fbin7YW2Sl4)** — *Youssou Makeba*
-2. **['50s French Movie](https://music.youtube.com/watch?v=EQQBx8YVoq8)** — *Carrie Rodriguez*
-3. **[Belle Ile En Mer](https://music.youtube.com/watch?v=JEBTbtyGv84)** — *50 Tubes Du Top*
-4. **[T'es OK, T'es Bath, T'es In](https://music.youtube.com/watch?v=rDNBMpJVPC4)** — *Ottawan*
-5. **[Mon amour](https://music.youtube.com/watch?v=VCzc5C6Gu5M)** — *Slimane*
-6. **[C’est la vie](https://music.youtube.com/watch?v=hToD6-5wJ_0)** — *Khaled*
-7. **[LES HITS DE 2017 EN FRANCE](https://music.youtube.com/watch?v=L9W5bmhCvJM)** — *AnaCharts*
-8. **[Désolé](https://music.youtube.com/watch?v=Wv6I6okZgVc)** — *Sexion d'Assaut*
-9. **[La foule](https://music.youtube.com/watch?v=ShmWmMWI8rY)** — *Youssoupha*
-10. **[Et si tu n'existais pas](https://music.youtube.com/watch?v=EJLDd-VOH1U)** — *Joe Dassin*
-11. **[La tribu de Dana](https://music.youtube.com/watch?v=GuyvZp_cM0c)** — *Manau*
-12. **[Suavemente](https://music.youtube.com/watch?v=PBllSMFHE7I)** — *Soolking*
-13. **[Je veux](https://music.youtube.com/watch?v=Z7cuTnbF-2c)** — *Zaz*
-14. **[Shape of You](https://music.youtube.com/watch?v=xTvyyoF_LZY)** — *Ed Sheeran*
-15. **[Ever Since U Left Me (I Went Deaf)](https://music.youtube.com/watch?v=Yqb8vZoDfvI)** — *French Montana, Max B*
+1. **[To France](https://music.youtube.com/watch?v=KrFD02bOJ3g)** — *Mike Oldfield*
+2. **[Hotel California](https://music.youtube.com/watch?v=BciS5krYL80)** — *Eagles*
+3. **[La Foule](https://music.youtube.com/watch?v=o2Tz1yV48NQ)** — *Edith Piaf*
+4. **[La foule](https://music.youtube.com/watch?v=ShmWmMWI8rY)** — *Youssoupha*
+5. **[Dai Dai](https://music.youtube.com/watch?v=lFQdcPTTzSg)** — *Shakira, Burna Boy*
+6. **[PARISIENNE](https://music.youtube.com/watch?v=ERk4Lx-mOqQ)** — *GIMS, La Mano 1.9*
+7. **[P.I.M.P. (Snoop Dogg Remix) (feat. Snoop Dogg)](https://music.youtube.com/watch?v=0FYHqh3O4AM)** — *50 Cent*
+8. **[A.W.A](https://music.youtube.com/watch?v=pr2jXZBmgjo)** — *Lacrim, French Montana*
+9. **[Tourner Dans Le Vide](https://music.youtube.com/watch?v=ONlMB2oGWwE)** — *Indila*
+10. **[Cosmo](https://music.youtube.com/watch?v=Mst7XVz_G24)** — *Soprano*
+11. **[Les Démons De Minuit](https://music.youtube.com/watch?v=YrAPeYHX_yE)** — *50 Tubes Du Top*
+12. **[Générique Top 50 (feat. P. Lion)](https://music.youtube.com/watch?v=R60bVh6Wj-A)** — *Anders Enger Jensen*
+13. **[Dreamers (Music from the FIFA World Cup Qatar 2022 Official Soundtrack) (feat. FIFA Sound)](https://music.youtube.com/watch?v=6qI-va1F5ck)** — *Jung Kook*
+14. **[Ella, elle l'a (Remasterisé en 2004)](https://music.youtube.com/watch?v=kTzhJfpJAgE)** — *France Gall*
+15. **[FRANCE FREESTYLE](https://music.youtube.com/watch?v=w4anGgcIL_s)** — *Baby Keem*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
