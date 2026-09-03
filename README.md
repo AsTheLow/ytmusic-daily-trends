@@ -1,22 +1,22 @@
-# 🎧 Ma Playlist Découverte du Jour (02/09/2026)
+# 🎧 Ma Playlist Découverte du Jour (03/09/2026)
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[Dai Dai](https://music.youtube.com/watch?v=lFQdcPTTzSg)** — *Shakira, Burna Boy*
-2. **[A.W.A](https://music.youtube.com/watch?v=pr2jXZBmgjo)** — *Lacrim, French Montana*
-3. **[Ramenez la coupe à la maison](https://music.youtube.com/watch?v=RHb5LKnnxLg)** — *Vegedream*
-4. **[Ella, elle l'a (Remasterisé en 2004)](https://music.youtube.com/watch?v=kTzhJfpJAgE)** — *France Gall*
-5. **[C’est la vie](https://music.youtube.com/watch?v=hToD6-5wJ_0)** — *Khaled*
-6. **[Shape of You](https://music.youtube.com/watch?v=xTvyyoF_LZY)** — *Ed Sheeran*
-7. **[Ma Philosophie](https://music.youtube.com/watch?v=kTzMPSc5IWk)** — *50 Tubes Du Top*
-8. **[Dernière danse](https://music.youtube.com/watch?v=cKE4wJMcAkc)** — *Indila*
-9. **[Et si tu n'existais pas](https://music.youtube.com/watch?v=EJLDd-VOH1U)** — *Joe Dassin*
-10. **[Ma direction](https://music.youtube.com/watch?v=_zExi90sw2U)** — *Sexion d'Assaut*
-11. **[Direct au top 50 (2020 Remaster)](https://music.youtube.com/watch?v=SzH94TnY7lk)** — *Gogol Premier*
-12. **[Le Festin](https://music.youtube.com/watch?v=-QuVe-hjMs0)** — *Camille, Michael Giacchino*
-13. **[Je te laisserai des mots](https://music.youtube.com/watch?v=mcdO9UP0hp8)** — *Patrick Watson*
-14. **[Asalto](https://music.youtube.com/watch?v=pCJQcY-opPk)** — *JUL*
-15. **[Hate It Or Love It (feat. 50 Cent)](https://music.youtube.com/watch?v=B_1moEBS4TE)** — *The Game*
+1. **[LES HITS DE 2017 EN FRANCE](https://music.youtube.com/watch?v=L9W5bmhCvJM)** — *AnaCharts*
+2. **[Ma direction](https://music.youtube.com/watch?v=_zExi90sw2U)** — *Sexion d'Assaut*
+3. **[Mafia Music](https://music.youtube.com/watch?v=CiyKkCEQPHg)** — *Rick Ross*
+4. **[Window Shopper](https://music.youtube.com/watch?v=KQZnU4kjfV8)** — *50 Cent*
+5. **[Full Mix Bonus : Nostalgie 80 (Album Complet)](https://music.youtube.com/watch?v=U7Z8Z0DvS2c)** — *Nostalgie 80*
+6. **[Born To Be Alive](https://music.youtube.com/watch?v=iGSLev5edOk)** — *50 Tubes Du Top*
+7. **[P.I.M.P. (Snoop Dogg Remix) (feat. Snoop Dogg)](https://music.youtube.com/watch?v=0FYHqh3O4AM)** — *50 Cent*
+8. **[Ever Since U Left Me (I Went Deaf)](https://music.youtube.com/watch?v=Yqb8vZoDfvI)** — *French Montana, Max B*
+9. **[Shape of You](https://music.youtube.com/watch?v=xTvyyoF_LZY)** — *Ed Sheeran*
+10. **[La Foule](https://music.youtube.com/watch?v=o2Tz1yV48NQ)** — *Edith Piaf*
+11. **[Mon amour](https://music.youtube.com/watch?v=VCzc5C6Gu5M)** — *Slimane*
+12. **[ESSAYER DE NE PAS CHANTER!!!!!! CHANSON FRANCAISE 2022](https://music.youtube.com/watch?v=6lpLKTZ475E)** — *TopVideos: France*
+13. **[Voyage, Voyage](https://music.youtube.com/watch?v=dB_c7oZWo1g)** — *DESIRELESS*
+14. **[Jerusalema (feat. Nomcebo Zikode)](https://music.youtube.com/watch?v=sHatfoYEQo0)** — *Master KG*
+15. **[Hotel California](https://music.youtube.com/watch?v=BciS5krYL80)** — *Eagles*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
