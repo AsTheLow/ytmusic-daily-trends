@@ -2,21 +2,21 @@
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[LES HITS DE 2017 EN FRANCE](https://music.youtube.com/watch?v=L9W5bmhCvJM)** — *AnaCharts*
-2. **[Ma direction](https://music.youtube.com/watch?v=_zExi90sw2U)** — *Sexion d'Assaut*
-3. **[Mafia Music](https://music.youtube.com/watch?v=CiyKkCEQPHg)** — *Rick Ross*
-4. **[Window Shopper](https://music.youtube.com/watch?v=KQZnU4kjfV8)** — *50 Cent*
-5. **[Full Mix Bonus : Nostalgie 80 (Album Complet)](https://music.youtube.com/watch?v=U7Z8Z0DvS2c)** — *Nostalgie 80*
-6. **[Born To Be Alive](https://music.youtube.com/watch?v=iGSLev5edOk)** — *50 Tubes Du Top*
-7. **[P.I.M.P. (Snoop Dogg Remix) (feat. Snoop Dogg)](https://music.youtube.com/watch?v=0FYHqh3O4AM)** — *50 Cent*
-8. **[Ever Since U Left Me (I Went Deaf)](https://music.youtube.com/watch?v=Yqb8vZoDfvI)** — *French Montana, Max B*
-9. **[Shape of You](https://music.youtube.com/watch?v=xTvyyoF_LZY)** — *Ed Sheeran*
-10. **[La Foule](https://music.youtube.com/watch?v=o2Tz1yV48NQ)** — *Edith Piaf*
-11. **[Mon amour](https://music.youtube.com/watch?v=VCzc5C6Gu5M)** — *Slimane*
-12. **[ESSAYER DE NE PAS CHANTER!!!!!! CHANSON FRANCAISE 2022](https://music.youtube.com/watch?v=6lpLKTZ475E)** — *TopVideos: France*
-13. **[Voyage, Voyage](https://music.youtube.com/watch?v=dB_c7oZWo1g)** — *DESIRELESS*
-14. **[Jerusalema (feat. Nomcebo Zikode)](https://music.youtube.com/watch?v=sHatfoYEQo0)** — *Master KG*
-15. **[Hotel California](https://music.youtube.com/watch?v=BciS5krYL80)** — *Eagles*
+1. **[Papaoutai (Afro Soul) (Afro House Remix Edit)](https://music.youtube.com/watch?v=fbin7YW2Sl4)** — *Youssou Makeba*
+2. **[World Cup](https://music.youtube.com/watch?v=8SvAif6uu6k)** — *iShowSpeed*
+3. **[Afro Trap Pt. 7 (La puissance)](https://music.youtube.com/watch?v=ZuYyv5-0p2c)** — *MHD*
+4. **[Wine Teasting in France](https://music.youtube.com/watch?v=ow5Ae54fKg0)** — *Florence Greeven*
+5. **[P.I.M.P. (Snoop Dogg Remix) (feat. Snoop Dogg)](https://music.youtube.com/watch?v=0FYHqh3O4AM)** — *50 Cent*
+6. **[Suavemente](https://music.youtube.com/watch?v=PBllSMFHE7I)** — *Soolking*
+7. **[Hate It Or Love It (feat. 50 Cent)](https://music.youtube.com/watch?v=B_1moEBS4TE)** — *The Game*
+8. **[Je te laisserai des mots](https://music.youtube.com/watch?v=mcdO9UP0hp8)** — *Patrick Watson*
+9. **[Ever Since U Left Me (I Went Deaf)](https://music.youtube.com/watch?v=Yqb8vZoDfvI)** — *French Montana, Max B*
+10. **[Ma Philosophie](https://music.youtube.com/watch?v=kTzMPSc5IWk)** — *50 Tubes Du Top*
+11. **[Blinding Lights](https://music.youtube.com/watch?v=J7p4bzqLvCw)** — *The Weeknd*
+12. **[Love Story](https://music.youtube.com/watch?v=4TIGwaBHuzg)** — *Indila*
+13. **[Foule sentimentale](https://music.youtube.com/watch?v=Eoy1Iik9Ens)** — *Alain Souchon*
+14. **[Doja](https://music.youtube.com/watch?v=Txnqzr_DZYg)** — *Central Cee*
+15. **[Pop That (feat. Rick Ross, Drake & Lil Wayne)](https://music.youtube.com/watch?v=AujrL5yzF7E)** — *French Montana*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
