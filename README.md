@@ -1,22 +1,22 @@
-# 🎧 Ma Playlist Découverte du Jour (12/09/2026)
+# 🎧 Ma Playlist Découverte du Jour (13/09/2026)
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[Non, je ne regrette rien](https://music.youtube.com/watch?v=t6wjCcWC2aE)** — *Edith Piaf*
-2. **[Hotel California](https://music.youtube.com/watch?v=BciS5krYL80)** — *Eagles*
-3. **[Je veux](https://music.youtube.com/watch?v=Z7cuTnbF-2c)** — *Zaz*
-4. **[Direct au top 50 (2020 Remaster)](https://music.youtube.com/watch?v=SzH94TnY7lk)** — *Gogol Premier*
-5. **[Champagne](https://music.youtube.com/watch?v=hcNyYyvUw7Q)** — *Suzane*
-6. **[World Cup](https://music.youtube.com/watch?v=8SvAif6uu6k)** — *iShowSpeed*
-7. **[Les Démons De Minuit](https://music.youtube.com/watch?v=YrAPeYHX_yE)** — *50 Tubes Du Top*
-8. **[Foule sentimentale](https://music.youtube.com/watch?v=Eoy1Iik9Ens)** — *Alain Souchon*
-9. **['50s French Movie](https://music.youtube.com/watch?v=EQQBx8YVoq8)** — *Carrie Rodriguez*
-10. **[Asalto](https://music.youtube.com/watch?v=pCJQcY-opPk)** — *JUL*
-11. **[To France](https://music.youtube.com/watch?v=M5jphuDsNj0)** — *Micast & Kya*
-12. **[Blinding Lights](https://music.youtube.com/watch?v=J7p4bzqLvCw)** — *The Weeknd*
-13. **[Dolce Camara](https://music.youtube.com/watch?v=AgFG6_TGdTY)** — *Booba, SDM*
-14. **[Full Mix Bonus : Nostalgie 80 (Album Complet)](https://music.youtube.com/watch?v=U7Z8Z0DvS2c)** — *Nostalgie 80*
-15. **[French Restaurant](https://music.youtube.com/watch?v=_SjwhDDEsZo)** — *Paris Restaurant Piano Music Masters, Instrumental Piano Universe*
+1. **[Dernière danse](https://music.youtube.com/watch?v=cKE4wJMcAkc)** — *Indila*
+2. **[Afro Trap Pt. 7 (La puissance)](https://music.youtube.com/watch?v=ZuYyv5-0p2c)** — *MHD*
+3. **[In Da Club](https://music.youtube.com/watch?v=bykSx6ewuac)** — *50 Cent*
+4. **[Dreamers (Music from the FIFA World Cup Qatar 2022 Official Soundtrack) (feat. FIFA Sound)](https://music.youtube.com/watch?v=6qI-va1F5ck)** — *Jung Kook*
+5. **[Window Shopper](https://music.youtube.com/watch?v=KQZnU4kjfV8)** — *50 Cent*
+6. **[Hotel California](https://music.youtube.com/watch?v=BciS5krYL80)** — *Eagles*
+7. **[Blinding Lights](https://music.youtube.com/watch?v=J7p4bzqLvCw)** — *The Weeknd*
+8. **[Voyage, Voyage](https://music.youtube.com/watch?v=dB_c7oZWo1g)** — *DESIRELESS*
+9. **[Ramenez la coupe à la maison](https://music.youtube.com/watch?v=Y5AO9oONTvk)** — *Vegedream*
+10. **[LES HITS DE 2017 EN FRANCE](https://music.youtube.com/watch?v=L9W5bmhCvJM)** — *AnaCharts*
+11. **[Tourner Dans Le Vide](https://music.youtube.com/watch?v=ONlMB2oGWwE)** — *Indila*
+12. **[Non, je ne regrette rien](https://music.youtube.com/watch?v=t6wjCcWC2aE)** — *Edith Piaf*
+13. **[Jerusalema (feat. Nomcebo Zikode)](https://music.youtube.com/watch?v=sHatfoYEQo0)** — *Master KG*
+14. **[Comme Un Ouragan](https://music.youtube.com/watch?v=ZhBQyJXBPiI)** — *50 Tubes Du Top*
+15. **[Mon amour](https://music.youtube.com/watch?v=VCzc5C6Gu5M)** — *Slimane*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
