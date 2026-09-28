@@ -1,22 +1,22 @@
-# 🎧 Ma Playlist Découverte du Jour (27/09/2026)
+# 🎧 Ma Playlist Découverte du Jour (28/09/2026)
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[La tribu de Dana](https://music.youtube.com/watch?v=GuyvZp_cM0c)** — *Manau*
-2. **[A.W.A](https://music.youtube.com/watch?v=pr2jXZBmgjo)** — *Lacrim, French Montana*
-3. **[Doja](https://music.youtube.com/watch?v=Txnqzr_DZYg)** — *Central Cee*
-4. **[Ramenez la coupe à la maison](https://music.youtube.com/watch?v=RHb5LKnnxLg)** — *Vegedream*
-5. **[Je te laisserai des mots](https://music.youtube.com/watch?v=mcdO9UP0hp8)** — *Patrick Watson*
-6. **[Dolce Camara](https://music.youtube.com/watch?v=AgFG6_TGdTY)** — *Booba, SDM*
-7. **[Tourner Dans Le Vide](https://music.youtube.com/watch?v=ONlMB2oGWwE)** — *Indila*
-8. **[Les Divas Du Dancing](https://music.youtube.com/watch?v=BrerDlGdvzk)** — *50 Tubes Du Top*
-9. **[La Foule](https://music.youtube.com/watch?v=o2Tz1yV48NQ)** — *Edith Piaf*
-10. **[Sur ma route](https://music.youtube.com/watch?v=U-Z_bZS8t3M)** — *Black M*
-11. **[Asalto](https://music.youtube.com/watch?v=pCJQcY-opPk)** — *JUL*
-12. **[P.I.M.P. (Snoop Dogg Remix) (feat. Snoop Dogg)](https://music.youtube.com/watch?v=0FYHqh3O4AM)** — *50 Cent*
-13. **[Happy Birthday](https://music.youtube.com/watch?v=dNEnzdcnWzE)** — *Naza*
-14. **[Ma direction](https://music.youtube.com/watch?v=_zExi90sw2U)** — *Sexion d'Assaut*
-15. **[Afro Trap Pt. 7 (La puissance)](https://music.youtube.com/watch?v=ZuYyv5-0p2c)** — *MHD*
+1. **[Take on Me](https://music.youtube.com/watch?v=HzdD8kbDzZA)** — *a-ha*
+2. **[Dernière danse](https://music.youtube.com/watch?v=cKE4wJMcAkc)** — *Indila*
+3. **[Wine Teasting in France](https://music.youtube.com/watch?v=ow5Ae54fKg0)** — *Florence Greeven*
+4. **[Goodbye Marilou](https://music.youtube.com/watch?v=oZYMD0uzTF0)** — *50 Tubes Du Top*
+5. **[Foule sentimentale](https://music.youtube.com/watch?v=Eoy1Iik9Ens)** — *Alain Souchon*
+6. **[Tu M'oublieras](https://music.youtube.com/watch?v=t_i2_F4DuWs)** — *50 Tubes Du Top*
+7. **[Voyage, Voyage](https://music.youtube.com/watch?v=dB_c7oZWo1g)** — *DESIRELESS*
+8. **[Générique Top 50 (feat. P. Lion)](https://music.youtube.com/watch?v=R60bVh6Wj-A)** — *Anders Enger Jensen*
+9. **[Sur ma route](https://music.youtube.com/watch?v=U-Z_bZS8t3M)** — *Black M*
+10. **[C’est la vie](https://music.youtube.com/watch?v=hToD6-5wJ_0)** — *Khaled*
+11. **[A.W.A](https://music.youtube.com/watch?v=pr2jXZBmgjo)** — *Lacrim, French Montana*
+12. **[Ella, elle l'a (Remasterisé en 2004)](https://music.youtube.com/watch?v=kTzhJfpJAgE)** — *France Gall*
+13. **[Non, je ne regrette rien](https://music.youtube.com/watch?v=t6wjCcWC2aE)** — *Edith Piaf*
+14. **[La tribu de Dana](https://music.youtube.com/watch?v=GuyvZp_cM0c)** — *Manau*
+15. **[Alors on danse (Radio Edit)](https://music.youtube.com/watch?v=SXoQHp2cQQc)** — *Stromae*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
