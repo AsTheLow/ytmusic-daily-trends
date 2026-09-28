@@ -2,21 +2,21 @@
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[Take on Me](https://music.youtube.com/watch?v=HzdD8kbDzZA)** — *a-ha*
-2. **[Dernière danse](https://music.youtube.com/watch?v=cKE4wJMcAkc)** — *Indila*
-3. **[Wine Teasting in France](https://music.youtube.com/watch?v=ow5Ae54fKg0)** — *Florence Greeven*
-4. **[Goodbye Marilou](https://music.youtube.com/watch?v=oZYMD0uzTF0)** — *50 Tubes Du Top*
-5. **[Foule sentimentale](https://music.youtube.com/watch?v=Eoy1Iik9Ens)** — *Alain Souchon*
-6. **[Tu M'oublieras](https://music.youtube.com/watch?v=t_i2_F4DuWs)** — *50 Tubes Du Top*
-7. **[Voyage, Voyage](https://music.youtube.com/watch?v=dB_c7oZWo1g)** — *DESIRELESS*
-8. **[Générique Top 50 (feat. P. Lion)](https://music.youtube.com/watch?v=R60bVh6Wj-A)** — *Anders Enger Jensen*
-9. **[Sur ma route](https://music.youtube.com/watch?v=U-Z_bZS8t3M)** — *Black M*
-10. **[C’est la vie](https://music.youtube.com/watch?v=hToD6-5wJ_0)** — *Khaled*
-11. **[A.W.A](https://music.youtube.com/watch?v=pr2jXZBmgjo)** — *Lacrim, French Montana*
-12. **[Ella, elle l'a (Remasterisé en 2004)](https://music.youtube.com/watch?v=kTzhJfpJAgE)** — *France Gall*
-13. **[Non, je ne regrette rien](https://music.youtube.com/watch?v=t6wjCcWC2aE)** — *Edith Piaf*
-14. **[La tribu de Dana](https://music.youtube.com/watch?v=GuyvZp_cM0c)** — *Manau*
-15. **[Alors on danse (Radio Edit)](https://music.youtube.com/watch?v=SXoQHp2cQQc)** — *Stromae*
+1. **[Tourner Dans Le Vide](https://music.youtube.com/watch?v=ONlMB2oGWwE)** — *Indila*
+2. **[A.W.A](https://music.youtube.com/watch?v=pr2jXZBmgjo)** — *Lacrim, French Montana*
+3. **[Une Femme Avec Une Femme](https://music.youtube.com/watch?v=NKA5HCKuliY)** — *50 Tubes Du Top*
+4. **[Piano Sonata No. 16 in C Major, K. 545 “Sonata Facile”: III. Rondo – Allegretto](https://music.youtube.com/watch?v=4-5QCKGrFBw)** — *Krakow String Project, Wolfgang Amadeus Mozart*
+5. **[T'es OK, T'es Bath, T'es In](https://music.youtube.com/watch?v=rDNBMpJVPC4)** — *Ottawan*
+6. **[String Quartet No. 17 in B-Flat Major, K. 458 “The Hunt”: I. Allegro vivace assai](https://music.youtube.com/watch?v=PTSmL2_M2O4)** — *Krakow String Project, Wolfgang Amadeus Mozart*
+7. **[La tribu de Dana](https://music.youtube.com/watch?v=GuyvZp_cM0c)** — *Manau*
+8. **[Sin Fin](https://music.youtube.com/watch?v=hDKGEIrvmX0)** — *Romeo Santos, Justin Timberlake*
+9. **[Music Sounds Better With You](https://music.youtube.com/watch?v=Hf244LCkkLc)** — *Stardust*
+10. **[Je te laisserai des mots](https://music.youtube.com/watch?v=mcdO9UP0hp8)** — *Patrick Watson*
+11. **[New York (feat. A Boogie Wit Da Hoodie & Jadakiss)](https://music.youtube.com/watch?v=TubRn8hL-Yo)** — *Rowdy Rebel*
+12. **[Beau malheur](https://music.youtube.com/watch?v=3kmB87yen5I)** — *Hits Variété Pop*
+13. **[Asalto](https://music.youtube.com/watch?v=pCJQcY-opPk)** — *JUL*
+14. **[Je veux](https://music.youtube.com/watch?v=Z7cuTnbF-2c)** — *Zaz*
+15. **[Et si tu n'existais pas](https://music.youtube.com/watch?v=EJLDd-VOH1U)** — *Joe Dassin*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
