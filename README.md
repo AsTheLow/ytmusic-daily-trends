@@ -2,21 +2,21 @@
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[Hate It Or Love It (feat. 50 Cent)](https://music.youtube.com/watch?v=B_1moEBS4TE)** — *The Game*
-2. **[Boum ! (From "Skyfall")](https://music.youtube.com/watch?v=22IG5Wy-AsU)** — *Charles Trenet*
-3. **[ESSAYER DE NE PAS CHANTER!!!!!! CHANSON FRANCAISE 2022](https://music.youtube.com/watch?v=6lpLKTZ475E)** — *TopVideos: France*
-4. **[To France](https://music.youtube.com/watch?v=M5jphuDsNj0)** — *Micast & Kya*
-5. **[Ramenez la coupe à la maison](https://music.youtube.com/watch?v=Y5AO9oONTvk)** — *Vegedream*
-6. **[Belle Ile En Mer](https://music.youtube.com/watch?v=JEBTbtyGv84)** — *50 Tubes Du Top*
-7. **[The Best of Edith Piaf Medley: Non, je ne regrette rien / La vie en rose / Hymne à l'amour / Mon manège à moi / La foule / Padam / Milord / Sous le ciel de Paris / L'accordéoniste / Johnny tu n'es pas un ange / L'homme à la moto / Les trois cloches /](https://music.youtube.com/watch?v=FuXJWb9iSI0)** — *Édith Piaf*
-8. **[C’est la vie](https://music.youtube.com/watch?v=hToD6-5wJ_0)** — *Khaled*
-9. **[Voyage, Voyage](https://music.youtube.com/watch?v=dB_c7oZWo1g)** — *DESIRELESS*
-10. **[Désolé](https://music.youtube.com/watch?v=Wv6I6okZgVc)** — *Sexion d'Assaut*
-11. **[Ce mortel ennui](https://music.youtube.com/watch?v=vPQNwCl0je0)** — *Serge Gainsbourg*
-12. **[Habibi (Indian Remix)](https://music.youtube.com/watch?v=mZiCL-fyt4o)** — *Ricky Rich, King*
-13. **[505](https://music.youtube.com/watch?v=qU9mHegkTc4)** — *Arctic Monkeys*
-14. **[Je veux](https://music.youtube.com/watch?v=Z7cuTnbF-2c)** — *Zaz*
-15. **[Je te laisserai des mots](https://music.youtube.com/watch?v=mcdO9UP0hp8)** — *Patrick Watson*
+1. **[Piano Concerto No. 8 in C Major, K. 246 “Lutzow”: I. Allegro aperto](https://music.youtube.com/watch?v=FokL5cbYMcw)** — *Krakow String Project, Wolfgang Amadeus Mozart*
+2. **[D'amour ou d'amitié](https://music.youtube.com/watch?v=VNMqtz5AZkQ)** — *Céline Dion*
+3. **[String Quartet No. 17 in B-Flat Major, K. 458 “The Hunt”: I. Allegro vivace assai](https://music.youtube.com/watch?v=PTSmL2_M2O4)** — *Krakow String Project, Wolfgang Amadeus Mozart*
+4. **[Alors on danse (Radio Edit)](https://music.youtube.com/watch?v=SXoQHp2cQQc)** — *Stromae*
+5. **[Wine Teasting in France](https://music.youtube.com/watch?v=ow5Ae54fKg0)** — *Florence Greeven*
+6. **[ESSAYER DE NE PAS CHANTER!!!!!! CHANSON FRANCAISE 2022](https://music.youtube.com/watch?v=6lpLKTZ475E)** — *TopVideos: France*
+7. **[Petit génie (feat. Abou Debeing)](https://music.youtube.com/watch?v=iANdoKq5ty4)** — *Jungeli, Imen Es, Alonzo, Lossa*
+8. **[Top 50](https://music.youtube.com/watch?v=J2cWzZfjNwA)** — *Sébastien Tellier, Mr. Oizo, SebastiAn*
+9. **[Love Affair (French Connection Disco Mix)](https://music.youtube.com/watch?v=wvN5RMxVgQY)** — *Vogue*
+10. **[A.W.A](https://music.youtube.com/watch?v=pr2jXZBmgjo)** — *Lacrim, French Montana*
+11. **[Ramenez la coupe à la maison](https://music.youtube.com/watch?v=RHb5LKnnxLg)** — *Vegedream*
+12. **[Et si tu n'existais pas](https://music.youtube.com/watch?v=EJLDd-VOH1U)** — *Joe Dassin*
+13. **[Papaoutai (Afro Soul) (Afro House Remix Edit)](https://music.youtube.com/watch?v=fbin7YW2Sl4)** — *Youssou Makeba*
+14. **[O Malhão Malhão](https://music.youtube.com/watch?v=11b4wRfS-tk)** — *Linda de Suza*
+15. **[Zouk la sé sél médikaman nou ni](https://music.youtube.com/watch?v=_FJ03NjJEUY)** — *Kassav'*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
