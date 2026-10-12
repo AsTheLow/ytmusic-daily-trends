@@ -1,22 +1,22 @@
-# 🎧 Ma Playlist Découverte du Jour (11/10/2026)
+# 🎧 Ma Playlist Découverte du Jour (12/10/2026)
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[Blinding Lights](https://music.youtube.com/watch?v=J7p4bzqLvCw)** — *The Weeknd*
-2. **[I Got 5 On It (feat. Michael Marshall)](https://music.youtube.com/watch?v=Dsct-TZ26Pw)** — *Luniz*
-3. **[Belle Ile En Mer](https://music.youtube.com/watch?v=JEBTbtyGv84)** — *50 Tubes Du Top*
-4. **[Happy Birthday](https://music.youtube.com/watch?v=dNEnzdcnWzE)** — *Naza*
-5. **[Générique Top 50 (feat. P. Lion)](https://music.youtube.com/watch?v=R60bVh6Wj-A)** — *Anders Enger Jensen*
-6. **[Direct au top 50 (2020 Remaster)](https://music.youtube.com/watch?v=SzH94TnY7lk)** — *Gogol Premier*
-7. **[New York (feat. A Boogie Wit Da Hoodie & Jadakiss)](https://music.youtube.com/watch?v=TubRn8hL-Yo)** — *Rowdy Rebel*
-8. **[Dernière danse](https://music.youtube.com/watch?v=cKE4wJMcAkc)** — *Indila*
-9. **[Window Shopper](https://music.youtube.com/watch?v=KQZnU4kjfV8)** — *50 Cent*
-10. **[LES HITS DE 2017 EN FRANCE](https://music.youtube.com/watch?v=L9W5bmhCvJM)** — *AnaCharts*
-11. **[La tribu de Dana](https://music.youtube.com/watch?v=GuyvZp_cM0c)** — *Manau*
-12. **[Afro Trap Pt. 7 (La puissance)](https://music.youtube.com/watch?v=ZuYyv5-0p2c)** — *MHD*
-13. **[Olé](https://music.youtube.com/watch?v=F4R5FU-Cto4)** — *Renaud*
-14. **[Je te laisserai des mots](https://music.youtube.com/watch?v=mcdO9UP0hp8)** — *Patrick Watson*
-15. **[Dolce Camara](https://music.youtube.com/watch?v=AgFG6_TGdTY)** — *Booba, SDM*
+1. **[Tu M'oublieras](https://music.youtube.com/watch?v=t_i2_F4DuWs)** — *50 Tubes Du Top*
+2. **[Jugni](https://music.youtube.com/watch?v=JvKChrMak_Y)** — *Diljit Dosanjh, Diamond Platnumz*
+3. **[Full Mix Bonus : Génération 80 (Album Complet)](https://music.youtube.com/watch?v=rXcVvxseBlo)** — *Génération 80*
+4. **[Une autre histoire](https://music.youtube.com/watch?v=zcG4rTyhPNI)** — *Gérard Blanc*
+5. **[Belle Ile En Mer](https://music.youtube.com/watch?v=JEBTbtyGv84)** — *50 Tubes Du Top*
+6. **[Dernière danse](https://music.youtube.com/watch?v=cKE4wJMcAkc)** — *Indila*
+7. **[Blinding Lights](https://music.youtube.com/watch?v=J7p4bzqLvCw)** — *The Weeknd*
+8. **[T'es OK, T'es Bath, T'es In](https://music.youtube.com/watch?v=rDNBMpJVPC4)** — *Ottawan*
+9. **[String Quartet No. 14 in G Major, K. 387 “Spring”: I. Allegro vivace assai](https://music.youtube.com/watch?v=bBLLqqboquk)** — *Krakow String Project, Wolfgang Amadeus Mozart*
+10. **[Pocahontas](https://music.youtube.com/watch?v=7Kouia1rYzg)** — *PLK*
+11. **[Tourner Dans Le Vide](https://music.youtube.com/watch?v=ONlMB2oGWwE)** — *Indila*
+12. **[Ramenez la coupe à la maison](https://music.youtube.com/watch?v=Y5AO9oONTvk)** — *Vegedream*
+13. **[Les Divas Du Dancing](https://music.youtube.com/watch?v=BrerDlGdvzk)** — *50 Tubes Du Top*
+14. **[A.W.A](https://music.youtube.com/watch?v=pr2jXZBmgjo)** — *Lacrim, French Montana*
+15. **[Belle Ile En Mer](https://music.youtube.com/watch?v=JEBTbtyGv84)** — *50 Tubes Du Top*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
