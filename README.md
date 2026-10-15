@@ -2,21 +2,21 @@
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[Goodbye Marilou](https://music.youtube.com/watch?v=oZYMD0uzTF0)** — *50 Tubes Du Top*
-2. **[SPA](https://music.youtube.com/watch?v=Zm9RJff5fjw)** — *GIMS, Theodora*
-3. **[A.W.A](https://music.youtube.com/watch?v=pr2jXZBmgjo)** — *Lacrim, French Montana*
-4. **[Dai Dai](https://music.youtube.com/watch?v=lFQdcPTTzSg)** — *Shakira, Burna Boy*
-5. **[Générique Top 50 (feat. P. Lion)](https://music.youtube.com/watch?v=R60bVh6Wj-A)** — *Anders Enger Jensen*
-6. **[Alors on danse (Radio Edit)](https://music.youtube.com/watch?v=SXoQHp2cQQc)** — *Stromae*
-7. **[Habibi (Indian Remix)](https://music.youtube.com/watch?v=mZiCL-fyt4o)** — *Ricky Rich, King*
-8. **['50s French Movie](https://music.youtube.com/watch?v=EQQBx8YVoq8)** — *Carrie Rodriguez*
-9. **[Wine Teasting in France](https://music.youtube.com/watch?v=ow5Ae54fKg0)** — *Florence Greeven*
-10. **[La foule](https://music.youtube.com/watch?v=ShmWmMWI8rY)** — *Youssoupha*
-11. **[Belle-Île-en-Mer, Marie-Galante](https://music.youtube.com/watch?v=vguNaTxxG1g)** — *50 Tubes Au Top*
-12. **[To France](https://music.youtube.com/watch?v=M5jphuDsNj0)** — *Micast & Kya*
-13. **[Sur ma route](https://music.youtube.com/watch?v=U-Z_bZS8t3M)** — *Black M*
-14. **[Les Divas Du Dancing](https://music.youtube.com/watch?v=BrerDlGdvzk)** — *50 Tubes Du Top*
-15. **[Tu M'oublieras](https://music.youtube.com/watch?v=t_i2_F4DuWs)** — *50 Tubes Du Top*
+1. **[SPA](https://music.youtube.com/watch?v=Zm9RJff5fjw)** — *GIMS, Theodora*
+2. **[Dai Dai](https://music.youtube.com/watch?v=lFQdcPTTzSg)** — *Shakira, Burna Boy*
+3. **[Belle Ile En Mer](https://music.youtube.com/watch?v=JEBTbtyGv84)** — *50 Tubes Du Top*
+4. **[ESSAYER DE NE PAS CHANTER!!!!!! CHANSON FRANCAISE 2022](https://music.youtube.com/watch?v=6lpLKTZ475E)** — *TopVideos: France*
+5. **[Belle-Île-en-Mer, Marie-Galante](https://music.youtube.com/watch?v=vguNaTxxG1g)** — *50 Tubes Au Top*
+6. **[The Cup of Life (La Copa De La Vida) [The Official Song of the World Cup, France '98][English]](https://music.youtube.com/watch?v=11x7crPnOF4)** — *Ricky Martin*
+7. **[Doja](https://music.youtube.com/watch?v=Txnqzr_DZYg)** — *Central Cee*
+8. **[Full Mix Bonus : Nostalgie 80 (Album Complet)](https://music.youtube.com/watch?v=U7Z8Z0DvS2c)** — *Nostalgie 80*
+9. **[T'en Va pas](https://music.youtube.com/watch?v=jkWbDULlZew)** — *50 Tubes Du Top*
+10. **[Les Divas Du Dancing](https://music.youtube.com/watch?v=BrerDlGdvzk)** — *50 Tubes Du Top*
+11. **[Sanctuary](https://music.youtube.com/watch?v=oXBVXlVz6Og)** — *French Montana*
+12. **[Olé](https://music.youtube.com/watch?v=F4R5FU-Cto4)** — *Renaud*
+13. **[Dolce Camara](https://music.youtube.com/watch?v=AgFG6_TGdTY)** — *Booba, SDM*
+14. **[Ma Philosophie](https://music.youtube.com/watch?v=kTzMPSc5IWk)** — *50 Tubes Du Top*
+15. **[Afro Trap Pt. 7 (La puissance)](https://music.youtube.com/watch?v=ZuYyv5-0p2c)** — *MHD*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
