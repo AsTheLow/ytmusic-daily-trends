@@ -1,22 +1,22 @@
-# 🎧 Ma Playlist Découverte du Jour (16/10/2026)
+# 🎧 Ma Playlist Découverte du Jour (17/10/2026)
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[String Quartet No. 14 in G Major, K. 387 “Spring”: I. Allegro vivace assai](https://music.youtube.com/watch?v=bBLLqqboquk)** — *Krakow String Project, Wolfgang Amadeus Mozart*
-2. **[Belle Ile En Mer](https://music.youtube.com/watch?v=JEBTbtyGv84)** — *50 Tubes Du Top*
-3. **[Olé](https://music.youtube.com/watch?v=F4R5FU-Cto4)** — *Renaud*
-4. **[Champagne](https://music.youtube.com/watch?v=hcNyYyvUw7Q)** — *Suzane*
-5. **[Piano Concerto No. 8 in C Major, K. 246 “Lutzow”: I. Allegro aperto](https://music.youtube.com/watch?v=FokL5cbYMcw)** — *Krakow String Project, Wolfgang Amadeus Mozart*
-6. **[Désolé](https://music.youtube.com/watch?v=Wv6I6okZgVc)** — *Sexion d'Assaut*
-7. **[LES HITS DE 2017 EN FRANCE](https://music.youtube.com/watch?v=L9W5bmhCvJM)** — *AnaCharts*
-8. **[Et si tu n'existais pas](https://music.youtube.com/watch?v=EJLDd-VOH1U)** — *Joe Dassin*
-9. **[A.W.A](https://music.youtube.com/watch?v=pr2jXZBmgjo)** — *Lacrim, French Montana*
-10. **[melodrama](https://music.youtube.com/watch?v=O2tKlnfrLkY)** — *disiz, Theodora*
-11. **[SPA](https://music.youtube.com/watch?v=Zm9RJff5fjw)** — *GIMS, Theodora*
-12. **[Beau malheur](https://music.youtube.com/watch?v=3kmB87yen5I)** — *Hits Variété Pop*
-13. **[Piano Sonata No. 16 in C Major, K. 545 “Sonata Facile”: III. Rondo – Allegretto](https://music.youtube.com/watch?v=4-5QCKGrFBw)** — *Krakow String Project, Wolfgang Amadeus Mozart*
-14. **[Belle-Île-en-Mer, Marie-Galante](https://music.youtube.com/watch?v=vguNaTxxG1g)** — *50 Tubes Au Top*
-15. **[Happy Birthday](https://music.youtube.com/watch?v=dNEnzdcnWzE)** — *Naza*
+1. **[Alors on danse (Radio Edit)](https://music.youtube.com/watch?v=SXoQHp2cQQc)** — *Stromae*
+2. **[Habibi (Indian Remix)](https://music.youtube.com/watch?v=mZiCL-fyt4o)** — *Ricky Rich, King*
+3. **[Bandit saleté](https://music.youtube.com/watch?v=G6TPA5hNuN4)** — *Sofiane*
+4. **[Je veux](https://music.youtube.com/watch?v=Z7cuTnbF-2c)** — *Zaz*
+5. **[Dolce Camara](https://music.youtube.com/watch?v=AgFG6_TGdTY)** — *Booba, SDM*
+6. **[Hate It Or Love It (feat. 50 Cent)](https://music.youtube.com/watch?v=B_1moEBS4TE)** — *The Game*
+7. **[Afro Trap Pt. 7 (La puissance)](https://music.youtube.com/watch?v=ZuYyv5-0p2c)** — *MHD*
+8. **[Confidence](https://music.youtube.com/watch?v=-mDBY8uOgUI)** — *Kim*
+9. **[Ma Philosophie](https://music.youtube.com/watch?v=kTzMPSc5IWk)** — *50 Tubes Du Top*
+10. **[Petit génie (feat. Abou Debeing)](https://music.youtube.com/watch?v=iANdoKq5ty4)** — *Jungeli, Imen Es, Alonzo, Lossa*
+11. **[Générique Top 50 (feat. P. Lion)](https://music.youtube.com/watch?v=R60bVh6Wj-A)** — *Anders Enger Jensen*
+12. **[In Da Club](https://music.youtube.com/watch?v=bykSx6ewuac)** — *50 Cent*
+13. **[Je te laisserai des mots](https://music.youtube.com/watch?v=mcdO9UP0hp8)** — *Patrick Watson*
+14. **[Sur ma route](https://music.youtube.com/watch?v=U-Z_bZS8t3M)** — *Black M*
+15. **[L'aventurier](https://music.youtube.com/watch?v=09BJyzWUesw)** — *Indochine*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
