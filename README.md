@@ -1,22 +1,22 @@
-# 🎧 Ma Playlist Découverte du Jour (19/10/2026)
+# 🎧 Ma Playlist Découverte du Jour (20/10/2026)
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[O Malhão Malhão](https://music.youtube.com/watch?v=11b4wRfS-tk)** — *Linda de Suza*
-2. **[Je veux](https://music.youtube.com/watch?v=Z7cuTnbF-2c)** — *Zaz*
-3. **[Zouk la sé sél médikaman nou ni](https://music.youtube.com/watch?v=_FJ03NjJEUY)** — *Kassav'*
-4. **[Mon amour](https://music.youtube.com/watch?v=VCzc5C6Gu5M)** — *Slimane*
-5. **[Belle Ile En Mer](https://music.youtube.com/watch?v=JEBTbtyGv84)** — *50 Tubes Du Top*
-6. **[Ma Philosophie](https://music.youtube.com/watch?v=kTzMPSc5IWk)** — *50 Tubes Du Top*
-7. **[Olé](https://music.youtube.com/watch?v=F4R5FU-Cto4)** — *Renaud*
+1. **[Ça c'est Paris](https://music.youtube.com/watch?v=7z90JJSHRcM)** — *Colette Renard*
+2. **[Dernière danse](https://music.youtube.com/watch?v=cKE4wJMcAkc)** — *Indila*
+3. **[L'aventurier](https://music.youtube.com/watch?v=09BJyzWUesw)** — *Indochine*
+4. **[Bandit saleté](https://music.youtube.com/watch?v=G6TPA5hNuN4)** — *Sofiane*
+5. **[Afro Trap Pt. 7 (La puissance)](https://music.youtube.com/watch?v=ZuYyv5-0p2c)** — *MHD*
+6. **[Sin Fin](https://music.youtube.com/watch?v=hDKGEIrvmX0)** — *Romeo Santos, Justin Timberlake*
+7. **[The Cup of Life (La Copa De La Vida) [The Official Song of the World Cup, France '98][English]](https://music.youtube.com/watch?v=11x7crPnOF4)** — *Ricky Martin*
 8. **[Confidence](https://music.youtube.com/watch?v=-mDBY8uOgUI)** — *Kim*
-9. **[Moi... Lolita](https://music.youtube.com/watch?v=TYcGedAkXio)** — *Alizée*
-10. **[Petit génie (feat. Abou Debeing)](https://music.youtube.com/watch?v=iANdoKq5ty4)** — *Jungeli, Imen Es, Alonzo, Lossa*
-11. **[Ramenez la coupe à la maison](https://music.youtube.com/watch?v=RHb5LKnnxLg)** — *Vegedream*
-12. **[Dai Dai](https://music.youtube.com/watch?v=lFQdcPTTzSg)** — *Shakira, Burna Boy*
-13. **[String Quartet No. 17 in B-Flat Major, K. 458 “The Hunt”: I. Allegro vivace assai](https://music.youtube.com/watch?v=PTSmL2_M2O4)** — *Krakow String Project, Wolfgang Amadeus Mozart*
-14. **[melodrama](https://music.youtube.com/watch?v=O2tKlnfrLkY)** — *disiz, Theodora*
-15. **[Fly Me To The Moon (2008 Remastered) (feat. Count Basie And His Orchestra)](https://music.youtube.com/watch?v=ZEcqHA7dbwM)** — *Frank Sinatra*
+9. **[Pocahontas](https://music.youtube.com/watch?v=7Kouia1rYzg)** — *PLK*
+10. **[Générique Top 50 (feat. P. Lion)](https://music.youtube.com/watch?v=R60bVh6Wj-A)** — *Anders Enger Jensen*
+11. **[Briller (Golden - version française)](https://music.youtube.com/watch?v=WuT1uUtM0mk)** — *HUNTR/X, Alexiane Broque, Jeanne Jérosme, Clotilde Verry*
+12. **[Ma direction](https://music.youtube.com/watch?v=_zExi90sw2U)** — *Sexion d'Assaut*
+13. **[Magic in the Air (feat. Ahmed Chawki)](https://music.youtube.com/watch?v=QkB5KGoY5G8)** — *Magic System*
+14. **[A.W.A](https://music.youtube.com/watch?v=pr2jXZBmgjo)** — *Lacrim, French Montana*
+15. **[Hate It Or Love It (feat. 50 Cent)](https://music.youtube.com/watch?v=B_1moEBS4TE)** — *The Game*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
