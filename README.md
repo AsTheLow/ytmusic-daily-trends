@@ -1,22 +1,22 @@
-# 🎧 Ma Playlist Découverte du Jour (21/10/2026)
+# 🎧 Ma Playlist Découverte du Jour (22/10/2026)
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[Dai Dai](https://music.youtube.com/watch?v=lFQdcPTTzSg)** — *Shakira, Burna Boy*
-2. **[Gata Only](https://music.youtube.com/watch?v=UWn9RdueB7E)** — *FloyyMenor, Cris Mj*
-3. **[Ma direction](https://music.youtube.com/watch?v=_zExi90sw2U)** — *Sexion d'Assaut*
-4. **[T'en Va pas](https://music.youtube.com/watch?v=jkWbDULlZew)** — *50 Tubes Du Top*
-5. **[I Got 5 On It (feat. Michael Marshall)](https://music.youtube.com/watch?v=Dsct-TZ26Pw)** — *Luniz*
-6. **[Ramenez la coupe à la maison](https://music.youtube.com/watch?v=RHb5LKnnxLg)** — *Vegedream*
-7. **[L'appuntamento](https://music.youtube.com/watch?v=iJxOr8_58zE)** — *Ornella Vanoni*
-8. **[Piano Concerto No. 8 in C Major, K. 246 “Lutzow”: I. Allegro aperto](https://music.youtube.com/watch?v=FokL5cbYMcw)** — *Krakow String Project, Wolfgang Amadeus Mozart*
-9. **[Confidence](https://music.youtube.com/watch?v=-mDBY8uOgUI)** — *Kim*
-10. **[Beau malheur](https://music.youtube.com/watch?v=3kmB87yen5I)** — *Hits Variété Pop*
-11. **[Tu M'oublieras](https://music.youtube.com/watch?v=t_i2_F4DuWs)** — *50 Tubes Du Top*
-12. **[Happy Birthday](https://music.youtube.com/watch?v=dNEnzdcnWzE)** — *Naza*
-13. **[Mon amour](https://music.youtube.com/watch?v=VCzc5C6Gu5M)** — *Slimane*
-14. **[ESSAYER DE NE PAS CHANTER!!!!!! CHANSON FRANCAISE 2022](https://music.youtube.com/watch?v=6lpLKTZ475E)** — *TopVideos: France*
-15. **[Magic in the Air (feat. Ahmed Chawki)](https://music.youtube.com/watch?v=QkB5KGoY5G8)** — *Magic System*
+1. **[Music Sounds Better With You](https://music.youtube.com/watch?v=Hf244LCkkLc)** — *Stardust*
+2. **[Ma Philosophie](https://music.youtube.com/watch?v=kTzMPSc5IWk)** — *50 Tubes Du Top*
+3. **[Tu M'oublieras](https://music.youtube.com/watch?v=t_i2_F4DuWs)** — *50 Tubes Du Top*
+4. **[Désolé](https://music.youtube.com/watch?v=Wv6I6okZgVc)** — *Sexion d'Assaut*
+5. **[Comme Un Ouragan](https://music.youtube.com/watch?v=Lgsm2ai2saU)** — *50 Tubes Au Top*
+6. **[Je veux](https://music.youtube.com/watch?v=Z7cuTnbF-2c)** — *Zaz*
+7. **[Une autre histoire](https://music.youtube.com/watch?v=zcG4rTyhPNI)** — *Gérard Blanc*
+8. **[Wine Teasting in France](https://music.youtube.com/watch?v=ow5Ae54fKg0)** — *Florence Greeven*
+9. **[Full Mix Bonus : Génération 80 (Album Complet)](https://music.youtube.com/watch?v=rXcVvxseBlo)** — *Génération 80*
+10. **[Tourner Dans Le Vide](https://music.youtube.com/watch?v=ONlMB2oGWwE)** — *Indila*
+11. **[Confidence](https://music.youtube.com/watch?v=-mDBY8uOgUI)** — *Kim*
+12. **[Champagne](https://music.youtube.com/watch?v=hcNyYyvUw7Q)** — *Suzane*
+13. **[Briller (Golden - version française)](https://music.youtube.com/watch?v=WuT1uUtM0mk)** — *HUNTR/X, Alexiane Broque, Jeanne Jérosme, Clotilde Verry*
+14. **[Générique Top 50 (feat. P. Lion)](https://music.youtube.com/watch?v=R60bVh6Wj-A)** — *Anders Enger Jensen*
+15. **[Dernière danse](https://music.youtube.com/watch?v=cKE4wJMcAkc)** — *Indila*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
