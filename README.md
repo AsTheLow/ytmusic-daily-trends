@@ -1,22 +1,22 @@
-# 🎧 Ma Playlist Découverte du Jour (23/10/2026)
+# 🎧 Ma Playlist Découverte du Jour (24/10/2026)
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[Belle Ile En Mer](https://music.youtube.com/watch?v=JEBTbtyGv84)** — *50 Tubes Du Top*
-2. **[Uranus](https://music.youtube.com/watch?v=xwdCE-FiPFc)** — *PNL*
-3. **[Confidence](https://music.youtube.com/watch?v=-mDBY8uOgUI)** — *Kim*
-4. **[To France](https://music.youtube.com/watch?v=M5jphuDsNj0)** — *Micast & Kya*
-5. **[T'en Va pas](https://music.youtube.com/watch?v=jkWbDULlZew)** — *50 Tubes Du Top*
-6. **[Ma Philosophie](https://music.youtube.com/watch?v=kTzMPSc5IWk)** — *50 Tubes Du Top*
-7. **[Ma direction](https://music.youtube.com/watch?v=_zExi90sw2U)** — *Sexion d'Assaut*
-8. **[SPA](https://music.youtube.com/watch?v=Zm9RJff5fjw)** — *GIMS, Theodora*
-9. **[Dolce Camara](https://music.youtube.com/watch?v=AgFG6_TGdTY)** — *Booba, SDM*
-10. **[Asalto](https://music.youtube.com/watch?v=pCJQcY-opPk)** — *JUL*
-11. **[Je veux](https://music.youtube.com/watch?v=Z7cuTnbF-2c)** — *Zaz*
-12. **[L'aventurier](https://music.youtube.com/watch?v=09BJyzWUesw)** — *Indochine*
-13. **[Piano Concerto No. 8 in C Major, K. 246 “Lutzow”: I. Allegro aperto](https://music.youtube.com/watch?v=FokL5cbYMcw)** — *Krakow String Project, Wolfgang Amadeus Mozart*
-14. **[melodrama](https://music.youtube.com/watch?v=O2tKlnfrLkY)** — *disiz, Theodora*
-15. **[Tu M'oublieras](https://music.youtube.com/watch?v=t_i2_F4DuWs)** — *50 Tubes Du Top*
+1. **[Désolé](https://music.youtube.com/watch?v=Wv6I6okZgVc)** — *Sexion d'Assaut*
+2. **[Magic in the Air (feat. Ahmed Chawki)](https://music.youtube.com/watch?v=QkB5KGoY5G8)** — *Magic System*
+3. **[Sur ma route](https://music.youtube.com/watch?v=U-Z_bZS8t3M)** — *Black M*
+4. **[ESSAYER DE NE PAS CHANTER!!!!!! CHANSON FRANCAISE 2022](https://music.youtube.com/watch?v=6lpLKTZ475E)** — *TopVideos: France*
+5. **[Champagne](https://music.youtube.com/watch?v=hcNyYyvUw7Q)** — *Suzane*
+6. **['50s French Movie](https://music.youtube.com/watch?v=EQQBx8YVoq8)** — *Carrie Rodriguez*
+7. **[L'appuntamento](https://music.youtube.com/watch?v=iJxOr8_58zE)** — *Ornella Vanoni*
+8. **[La tribu de Dana](https://music.youtube.com/watch?v=GuyvZp_cM0c)** — *Manau*
+9. **[Piano Sonata No. 16 in C Major, K. 545 “Sonata Facile”: III. Rondo – Allegretto](https://music.youtube.com/watch?v=4-5QCKGrFBw)** — *Krakow String Project, Wolfgang Amadeus Mozart*
+10. **[Ramenez la coupe à la maison](https://music.youtube.com/watch?v=RHb5LKnnxLg)** — *Vegedream*
+11. **[Petit génie (feat. Abou Debeing)](https://music.youtube.com/watch?v=iANdoKq5ty4)** — *Jungeli, Imen Es, Alonzo, Lossa*
+12. **[I Got 5 On It (feat. Michael Marshall)](https://music.youtube.com/watch?v=Dsct-TZ26Pw)** — *Luniz*
+13. **[Belle Ile En Mer](https://music.youtube.com/watch?v=JEBTbtyGv84)** — *50 Tubes Du Top*
+14. **[O Malhão Malhão](https://music.youtube.com/watch?v=11b4wRfS-tk)** — *Linda de Suza*
+15. **[T'en Va pas](https://music.youtube.com/watch?v=jkWbDULlZew)** — *50 Tubes Du Top*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
