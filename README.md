@@ -1,22 +1,22 @@
-# 🎧 Ma Playlist Découverte du Jour (26/10/2026)
+# 🎧 Ma Playlist Découverte du Jour (27/10/2026)
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[Pineapple](https://music.youtube.com/watch?v=t-qNeD3_NQQ)** — *Leto*
-2. **[D'amour ou d'amitié](https://music.youtube.com/watch?v=VNMqtz5AZkQ)** — *Céline Dion*
-3. **[Au Bout De La Nuit](https://music.youtube.com/watch?v=NqWLxhFy2Y0)** — *Hamza*
-4. **[Ma direction](https://music.youtube.com/watch?v=_zExi90sw2U)** — *Sexion d'Assaut*
-5. **[Djadja](https://music.youtube.com/watch?v=9d5_eWVecaM)** — *Aya Nakamura*
-6. **[Full Mix Bonus : Génération 80 (Album Complet)](https://music.youtube.com/watch?v=rXcVvxseBlo)** — *Génération 80*
-7. **[3DABI](https://music.youtube.com/watch?v=gvESkJrI3ms)** — *Draganov*
-8. **[Mon Bébé](https://music.youtube.com/watch?v=o8BjlbJtdVM)** — *Criss MJ*
-9. **[Dernière danse](https://music.youtube.com/watch?v=cKE4wJMcAkc)** — *Indila*
-10. **[La vie qu'on mène](https://music.youtube.com/watch?v=BJwovrr6XzI)** — *Ninho*
-11. **[Pocahontas](https://music.youtube.com/watch?v=7Kouia1rYzg)** — *PLK*
-12. **[Ne partez pas sans moi (Grand prix de L'Eurovision 1988)](https://music.youtube.com/watch?v=fc15NK89NjI)** — *Céline Dion*
-13. **[Roi](https://music.youtube.com/watch?v=OjN1gOIwqOM)** — *Videoclub, Adèle Castillon, Mattyeux*
-14. **[Hiya Hiya (feat. Pitbull)](https://music.youtube.com/watch?v=3G2WEA66CIs)** — *Khaled*
-15. **[BTS | FIFA World Cup 2026™ Final Halftime Show | Full Performance](https://music.youtube.com/watch?v=E3nWu1VgRJU)** — *FIFA*
+1. **[Ramenez la coupe à la maison](https://music.youtube.com/watch?v=RHb5LKnnxLg)** — *Vegedream*
+2. **[To France](https://music.youtube.com/watch?v=M5jphuDsNj0)** — *Micast & Kya*
+3. **[Champagne](https://music.youtube.com/watch?v=hcNyYyvUw7Q)** — *Suzane*
+4. **[Asalto](https://music.youtube.com/watch?v=pCJQcY-opPk)** — *JUL*
+5. **[Papaoutai (Afro Soul) (Afro House Remix Edit)](https://music.youtube.com/watch?v=fbin7YW2Sl4)** — *Youssou Makeba*
+6. **[C’est la vie](https://music.youtube.com/watch?v=hToD6-5wJ_0)** — *Khaled*
+7. **[Happy Birthday](https://music.youtube.com/watch?v=dNEnzdcnWzE)** — *Naza*
+8. **[Dolce Camara](https://music.youtube.com/watch?v=AgFG6_TGdTY)** — *Booba, SDM*
+9. **[Wine Teasting in France](https://music.youtube.com/watch?v=ow5Ae54fKg0)** — *Florence Greeven*
+10. **[I Got 5 On It (feat. Michael Marshall)](https://music.youtube.com/watch?v=Dsct-TZ26Pw)** — *Luniz*
+11. **[Piano Sonata No. 16 in C Major, K. 545 “Sonata Facile”: III. Rondo – Allegretto](https://music.youtube.com/watch?v=4-5QCKGrFBw)** — *Krakow String Project, Wolfgang Amadeus Mozart*
+12. **['50s French Movie](https://music.youtube.com/watch?v=EQQBx8YVoq8)** — *Carrie Rodriguez*
+13. **[Fly Me To The Moon (2008 Remastered) (feat. Count Basie And His Orchestra)](https://music.youtube.com/watch?v=ZEcqHA7dbwM)** — *Frank Sinatra*
+14. **[ESSAYER DE NE PAS CHANTER!!!!!! CHANSON FRANCAISE 2022](https://music.youtube.com/watch?v=6lpLKTZ475E)** — *TopVideos: France*
+15. **[Born To Be Alive](https://music.youtube.com/watch?v=iGSLev5edOk)** — *50 Tubes Du Top*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
