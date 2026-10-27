@@ -2,21 +2,21 @@
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[Ramenez la coupe à la maison](https://music.youtube.com/watch?v=RHb5LKnnxLg)** — *Vegedream*
-2. **[To France](https://music.youtube.com/watch?v=M5jphuDsNj0)** — *Micast & Kya*
-3. **[Champagne](https://music.youtube.com/watch?v=hcNyYyvUw7Q)** — *Suzane*
-4. **[Asalto](https://music.youtube.com/watch?v=pCJQcY-opPk)** — *JUL*
-5. **[Papaoutai (Afro Soul) (Afro House Remix Edit)](https://music.youtube.com/watch?v=fbin7YW2Sl4)** — *Youssou Makeba*
-6. **[C’est la vie](https://music.youtube.com/watch?v=hToD6-5wJ_0)** — *Khaled*
-7. **[Happy Birthday](https://music.youtube.com/watch?v=dNEnzdcnWzE)** — *Naza*
-8. **[Dolce Camara](https://music.youtube.com/watch?v=AgFG6_TGdTY)** — *Booba, SDM*
-9. **[Wine Teasting in France](https://music.youtube.com/watch?v=ow5Ae54fKg0)** — *Florence Greeven*
-10. **[I Got 5 On It (feat. Michael Marshall)](https://music.youtube.com/watch?v=Dsct-TZ26Pw)** — *Luniz*
-11. **[Piano Sonata No. 16 in C Major, K. 545 “Sonata Facile”: III. Rondo – Allegretto](https://music.youtube.com/watch?v=4-5QCKGrFBw)** — *Krakow String Project, Wolfgang Amadeus Mozart*
-12. **['50s French Movie](https://music.youtube.com/watch?v=EQQBx8YVoq8)** — *Carrie Rodriguez*
-13. **[Fly Me To The Moon (2008 Remastered) (feat. Count Basie And His Orchestra)](https://music.youtube.com/watch?v=ZEcqHA7dbwM)** — *Frank Sinatra*
-14. **[ESSAYER DE NE PAS CHANTER!!!!!! CHANSON FRANCAISE 2022](https://music.youtube.com/watch?v=6lpLKTZ475E)** — *TopVideos: France*
-15. **[Born To Be Alive](https://music.youtube.com/watch?v=iGSLev5edOk)** — *50 Tubes Du Top*
+1. **[Dernière danse](https://music.youtube.com/watch?v=cKE4wJMcAkc)** — *Indila*
+2. **[Beau malheur](https://music.youtube.com/watch?v=3kmB87yen5I)** — *Hits Variété Pop*
+3. **[Copines](https://music.youtube.com/watch?v=aykb9pGfTR4)** — *Aya Nakamura*
+4. **[Piano Concerto No. 8 in C Major, K. 246 “Lutzow”: I. Allegro aperto](https://music.youtube.com/watch?v=FokL5cbYMcw)** — *Krakow String Project, Wolfgang Amadeus Mozart*
+5. **[Best life (feat. Gims)](https://music.youtube.com/watch?v=z3CUgZK5qq8)** — *Naps*
+6. **[Je Danse Le Mia](https://music.youtube.com/watch?v=41RlexsYxqc)** — *Generation Rap*
+7. **[T'en Va pas](https://music.youtube.com/watch?v=jkWbDULlZew)** — *50 Tubes Du Top*
+8. **[Unell Yo (feat. Nhaysa) [Tribal Tech Mix] (feat. Nhaysa)](https://music.youtube.com/watch?v=f14HYUHqiKY)** — *DJ Blonde*
+9. **[To France](https://music.youtube.com/watch?v=M5jphuDsNj0)** — *Micast & Kya*
+10. **[Désolé](https://music.youtube.com/watch?v=Wv6I6okZgVc)** — *Sexion d'Assaut*
+11. **[Dieu M'a Donné La Foi](https://music.youtube.com/watch?v=HXAT6nSJNlg)** — *50 Tubes Du Top*
+12. **[Viens me rejoindre](https://music.youtube.com/watch?v=Jis-tx1kOhE)** — *DJ Hits*
+13. **[Garçon](https://music.youtube.com/watch?v=4j1TIfD0tec)** — *Generation Rap*
+14. **[Smooth Background](https://music.youtube.com/watch?v=swIHITsadl0)** — *French Piano Jazz Music Oasis*
+15. **[Pavane Op.50](https://music.youtube.com/watch?v=d1p6e8DlrQU)** — *Paris France Royal Philharmonic Orchestra*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
