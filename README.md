@@ -1,22 +1,22 @@
-# 🎧 Ma Playlist Découverte du Jour (29/10/2026)
+# 🎧 Ma Playlist Découverte du Jour (30/10/2026)
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[Moi... Lolita](https://music.youtube.com/watch?v=TYcGedAkXio)** — *Alizée*
-2. **[Comme Un Ouragan](https://music.youtube.com/watch?v=Lgsm2ai2saU)** — *50 Tubes Au Top*
-3. **[Ma direction](https://music.youtube.com/watch?v=_zExi90sw2U)** — *Sexion d'Assaut*
-4. **[Wine Teasting in France](https://music.youtube.com/watch?v=ow5Ae54fKg0)** — *Florence Greeven*
-5. **['50s French Movie](https://music.youtube.com/watch?v=EQQBx8YVoq8)** — *Carrie Rodriguez*
-6. **[LES HITS DE 2017 EN FRANCE](https://music.youtube.com/watch?v=L9W5bmhCvJM)** — *AnaCharts*
-7. **[Top Medley 80 (Club Mix)](https://music.youtube.com/watch?v=A_M0Esxhf7g)** — *Génération 80*
-8. **[I Got 5 On It (feat. Michael Marshall)](https://music.youtube.com/watch?v=Dsct-TZ26Pw)** — *Luniz*
-9. **[SPA](https://music.youtube.com/watch?v=Zm9RJff5fjw)** — *GIMS, Theodora*
-10. **[SPA](https://music.youtube.com/watch?v=Zm9RJff5fjw)** — *GIMS, Theodora*
-11. **[T'en Va pas](https://music.youtube.com/watch?v=jkWbDULlZew)** — *50 Tubes Du Top*
-12. **[Gata Only](https://music.youtube.com/watch?v=UWn9RdueB7E)** — *FloyyMenor, Cris Mj*
-13. **[Dai Dai](https://music.youtube.com/watch?v=lFQdcPTTzSg)** — *Shakira, Burna Boy*
-14. **[A toutes les filles](https://music.youtube.com/watch?v=bT0fOICThnU)** — *50 Tubes Du Top*
-15. **[String Quartet No. 19 in C Major, K. 465 “Dissonance”: II. Andante cantabile](https://music.youtube.com/watch?v=US3ZCofffwM)** — *Krakow String Project, Wolfgang Amadeus Mozart*
+1. **[Générique TOP 50 (Synthwave Remix)](https://music.youtube.com/watch?v=gkfiE_wAY1g)** — *Santini*
+2. **[Voyage, Voyage](https://music.youtube.com/watch?v=dB_c7oZWo1g)** — *DESIRELESS*
+3. **[T'es OK, T'es Bath, T'es In](https://music.youtube.com/watch?v=rDNBMpJVPC4)** — *Ottawan*
+4. **[Full Mix Bonus : Nostalgie 80 (Album Complet)](https://music.youtube.com/watch?v=U7Z8Z0DvS2c)** — *Nostalgie 80*
+5. **[Copines](https://music.youtube.com/watch?v=aykb9pGfTR4)** — *Aya Nakamura*
+6. **[Piano Concerto No. 8 in C Major, K. 246 “Lutzow”: I. Allegro aperto](https://music.youtube.com/watch?v=FokL5cbYMcw)** — *Krakow String Project, Wolfgang Amadeus Mozart*
+7. **[Pocahontas](https://music.youtube.com/watch?v=7Kouia1rYzg)** — *PLK*
+8. **[Confidence](https://music.youtube.com/watch?v=-mDBY8uOgUI)** — *Kim*
+9. **[Magic in the Air (feat. Ahmed Chawki)](https://music.youtube.com/watch?v=QkB5KGoY5G8)** — *Magic System*
+10. **[I Got 5 On It (feat. Michael Marshall)](https://music.youtube.com/watch?v=Dsct-TZ26Pw)** — *Luniz*
+11. **[French bachata](https://music.youtube.com/watch?v=xp5YbxL3wfg)** — *Wahyné*
+12. **[Wine Teasting in France](https://music.youtube.com/watch?v=ow5Ae54fKg0)** — *Florence Greeven*
+13. **[Et si tu n'existais pas](https://music.youtube.com/watch?v=EJLDd-VOH1U)** — *Joe Dassin*
+14. **[Happy Birthday](https://music.youtube.com/watch?v=dNEnzdcnWzE)** — *Naza*
+15. **[Tu M'oublieras](https://music.youtube.com/watch?v=t_i2_F4DuWs)** — *50 Tubes Du Top*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
