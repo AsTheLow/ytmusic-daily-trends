@@ -1,22 +1,22 @@
-# 🎧 Ma Playlist Découverte du Jour (30/10/2026)
+# 🎧 Ma Playlist Découverte du Jour (31/10/2026)
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[La vie qu'on mène](https://music.youtube.com/watch?v=BJwovrr6XzI)** — *Ninho*
-2. **[Alors on danse (Radio Edit)](https://music.youtube.com/watch?v=SXoQHp2cQQc)** — *Stromae*
-3. **[Juke Box (Young Pulse Remix)](https://music.youtube.com/watch?v=k_FBhxNBazg)** — *Françoise Hardy, Funky French League*
-4. **[Gata Only](https://music.youtube.com/watch?v=UWn9RdueB7E)** — *FloyyMenor, Cris Mj*
-5. **[Piano Concerto No. 8 in C Major, K. 246 “Lutzow”: I. Allegro aperto](https://music.youtube.com/watch?v=FokL5cbYMcw)** — *Krakow String Project, Wolfgang Amadeus Mozart*
-6. **[Music Sounds Better With You](https://music.youtube.com/watch?v=Hf244LCkkLc)** — *Stardust*
-7. **[Et si tu n'existais pas](https://music.youtube.com/watch?v=EJLDd-VOH1U)** — *Joe Dassin*
-8. **[Générique TOP 50 (Synthwave Remix)](https://music.youtube.com/watch?v=gkfiE_wAY1g)** — *Santini*
-9. **[Briller (Golden - version française)](https://music.youtube.com/watch?v=WuT1uUtM0mk)** — *HUNTR/X, Alexiane Broque, Jeanne Jérosme, Clotilde Verry*
-10. **[Pocahontas](https://music.youtube.com/watch?v=7Kouia1rYzg)** — *PLK*
-11. **[Foule sentimentale](https://music.youtube.com/watch?v=Eoy1Iik9Ens)** — *Alain Souchon*
-12. **[Tourner Dans Le Vide](https://music.youtube.com/watch?v=ONlMB2oGWwE)** — *Indila*
-13. **[Full Mix Bonus : Génération 80 (Album Complet)](https://music.youtube.com/watch?v=rXcVvxseBlo)** — *Génération 80*
-14. **[Copines](https://music.youtube.com/watch?v=aykb9pGfTR4)** — *Aya Nakamura*
-15. **[Une autre histoire](https://music.youtube.com/watch?v=zcG4rTyhPNI)** — *Gérard Blanc*
+1. **[Sur ma route](https://music.youtube.com/watch?v=U-Z_bZS8t3M)** — *Black M*
+2. **[Djadja](https://music.youtube.com/watch?v=9d5_eWVecaM)** — *Aya Nakamura*
+3. **[Ramenez la coupe à la maison](https://music.youtube.com/watch?v=RHb5LKnnxLg)** — *Vegedream*
+4. **[Besoin de rien, envie de toi](https://music.youtube.com/watch?v=3VAmEKbB1Sw)** — *50 Tubes Du Top*
+5. **[C’est la vie](https://music.youtube.com/watch?v=hToD6-5wJ_0)** — *Khaled*
+6. **[Toute première fois (Saint-Honoré Extended Remix)](https://music.youtube.com/watch?v=a7zczcapznI)** — *Jeanne Mas*
+7. **[SPA](https://music.youtube.com/watch?v=Zm9RJff5fjw)** — *GIMS, Theodora*
+8. **[J'aimerais trop (feat. SAP)](https://music.youtube.com/watch?v=Vr5b_EfyWSw)** — *Keen'V*
+9. **[Non, je ne regrette rien](https://music.youtube.com/watch?v=t6wjCcWC2aE)** — *Edith Piaf*
+10. **[Désolé](https://music.youtube.com/watch?v=Wv6I6okZgVc)** — *Sexion d'Assaut*
+11. **[Jerusalema (feat. Nomcebo Zikode)](https://music.youtube.com/watch?v=sHatfoYEQo0)** — *Master KG*
+12. **[J'ai Demandé A La Lune](https://music.youtube.com/watch?v=2GUnGfFnP7g)** — *50 Tubes Au Top*
+13. **[Alors on danse (Radio Edit)](https://music.youtube.com/watch?v=SXoQHp2cQQc)** — *Stromae*
+14. **[Ainsi bas la vida](https://music.youtube.com/watch?v=rBR1nwYIFck)** — *Indila*
+15. **[Dai Dai](https://music.youtube.com/watch?v=lFQdcPTTzSg)** — *Shakira, Burna Boy*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
