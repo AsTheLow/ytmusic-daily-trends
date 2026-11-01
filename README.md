@@ -1,22 +1,22 @@
-# 🎧 Ma Playlist Découverte du Jour (31/10/2026)
+# 🎧 Ma Playlist Découverte du Jour (01/11/2026)
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[Sur ma route](https://music.youtube.com/watch?v=U-Z_bZS8t3M)** — *Black M*
-2. **[Djadja](https://music.youtube.com/watch?v=9d5_eWVecaM)** — *Aya Nakamura*
-3. **[Ramenez la coupe à la maison](https://music.youtube.com/watch?v=RHb5LKnnxLg)** — *Vegedream*
-4. **[Besoin de rien, envie de toi](https://music.youtube.com/watch?v=3VAmEKbB1Sw)** — *50 Tubes Du Top*
-5. **[C’est la vie](https://music.youtube.com/watch?v=hToD6-5wJ_0)** — *Khaled*
-6. **[Toute première fois (Saint-Honoré Extended Remix)](https://music.youtube.com/watch?v=a7zczcapznI)** — *Jeanne Mas*
-7. **[SPA](https://music.youtube.com/watch?v=Zm9RJff5fjw)** — *GIMS, Theodora*
-8. **[J'aimerais trop (feat. SAP)](https://music.youtube.com/watch?v=Vr5b_EfyWSw)** — *Keen'V*
-9. **[Non, je ne regrette rien](https://music.youtube.com/watch?v=t6wjCcWC2aE)** — *Edith Piaf*
-10. **[Désolé](https://music.youtube.com/watch?v=Wv6I6okZgVc)** — *Sexion d'Assaut*
-11. **[Jerusalema (feat. Nomcebo Zikode)](https://music.youtube.com/watch?v=sHatfoYEQo0)** — *Master KG*
-12. **[J'ai Demandé A La Lune](https://music.youtube.com/watch?v=2GUnGfFnP7g)** — *50 Tubes Au Top*
-13. **[Alors on danse (Radio Edit)](https://music.youtube.com/watch?v=SXoQHp2cQQc)** — *Stromae*
-14. **[Ainsi bas la vida](https://music.youtube.com/watch?v=rBR1nwYIFck)** — *Indila*
-15. **[Dai Dai](https://music.youtube.com/watch?v=lFQdcPTTzSg)** — *Shakira, Burna Boy*
+1. **[Ça c'est Paris](https://music.youtube.com/watch?v=7z90JJSHRcM)** — *Colette Renard*
+2. **[Je veux](https://music.youtube.com/watch?v=Z7cuTnbF-2c)** — *Zaz*
+3. **[Jerusalema (feat. Nomcebo Zikode)](https://music.youtube.com/watch?v=sHatfoYEQo0)** — *Master KG*
+4. **[Papaoutai (Afro Soul) (Afro House Remix Edit)](https://music.youtube.com/watch?v=fbin7YW2Sl4)** — *Youssou Makeba*
+5. **[LES HITS DE 2017 EN FRANCE](https://music.youtube.com/watch?v=L9W5bmhCvJM)** — *AnaCharts*
+6. **[Music Sounds Better With You](https://music.youtube.com/watch?v=Hf244LCkkLc)** — *Stardust*
+7. **[BTS | FIFA World Cup 2026™ Final Halftime Show | Full Performance](https://music.youtube.com/watch?v=E3nWu1VgRJU)** — *FIFA*
+8. **[ESSAYER DE NE PAS CHANTER!!!!!! CHANSON FRANCAISE 2022](https://music.youtube.com/watch?v=6lpLKTZ475E)** — *TopVideos: France*
+9. **[To France](https://music.youtube.com/watch?v=KrFD02bOJ3g)** — *Mike Oldfield*
+10. **[To France](https://music.youtube.com/watch?v=M5jphuDsNj0)** — *Micast & Kya*
+11. **[Générique TOP 50 (Synthwave Remix)](https://music.youtube.com/watch?v=gkfiE_wAY1g)** — *Santini*
+12. **[Voyage, Voyage](https://music.youtube.com/watch?v=dB_c7oZWo1g)** — *DESIRELESS*
+13. **[L'appuntamento](https://music.youtube.com/watch?v=iJxOr8_58zE)** — *Ornella Vanoni*
+14. **[Ma direction](https://music.youtube.com/watch?v=_zExi90sw2U)** — *Sexion d'Assaut*
+15. **[String Quartet No. 19 in C Major, K. 465 “Dissonance”: II. Andante cantabile](https://music.youtube.com/watch?v=US3ZCofffwM)** — *Krakow String Project, Wolfgang Amadeus Mozart*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
