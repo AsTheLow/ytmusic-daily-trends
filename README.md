@@ -1,22 +1,22 @@
-# 🎧 Ma Playlist Découverte du Jour (02/11/2026)
+# 🎧 Ma Playlist Découverte du Jour (03/11/2026)
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[Générique Top 50 (feat. P. Lion)](https://music.youtube.com/watch?v=R60bVh6Wj-A)** — *Anders Enger Jensen*
-2. **[Une autre histoire](https://music.youtube.com/watch?v=zcG4rTyhPNI)** — *Gérard Blanc*
-3. **[French bachata](https://music.youtube.com/watch?v=xp5YbxL3wfg)** — *Wahyné*
-4. **[BTS | FIFA World Cup 2026™ Final Halftime Show | Full Performance](https://music.youtube.com/watch?v=E3nWu1VgRJU)** — *FIFA*
-5. **[Voyage, Voyage](https://music.youtube.com/watch?v=dB_c7oZWo1g)** — *DESIRELESS*
-6. **[Alors on danse (Radio Edit)](https://music.youtube.com/watch?v=SXoQHp2cQQc)** — *Stromae*
-7. **[Briller (Golden - version française)](https://music.youtube.com/watch?v=WuT1uUtM0mk)** — *HUNTR/X, Alexiane Broque, Jeanne Jérosme, Clotilde Verry*
-8. **['50s French Movie](https://music.youtube.com/watch?v=EQQBx8YVoq8)** — *Carrie Rodriguez*
-9. **[La tribu de Dana](https://music.youtube.com/watch?v=GuyvZp_cM0c)** — *Manau*
-10. **[Dernière danse](https://music.youtube.com/watch?v=cKE4wJMcAkc)** — *Indila*
-11. **[Top 50](https://music.youtube.com/watch?v=J2cWzZfjNwA)** — *Sébastien Tellier, Mr. Oizo, SebastiAn*
-12. **[Sonata for Keyboard and Violin No. 35 in A Major, K. 526: III. Presto](https://music.youtube.com/watch?v=dQ_XyzrEsoI)** — *Warsaw String Masters, Wolfgang Amadeus Mozart*
-13. **[Goodbye Marilou](https://music.youtube.com/watch?v=oZYMD0uzTF0)** — *50 Tubes Du Top*
-14. **[Jerusalema (feat. Nomcebo Zikode)](https://music.youtube.com/watch?v=sHatfoYEQo0)** — *Master KG*
-15. **[Juke Box (Young Pulse Remix)](https://music.youtube.com/watch?v=k_FBhxNBazg)** — *Françoise Hardy, Funky French League*
+1. **[Full Mix Bonus : Génération 80 (Album Complet)](https://music.youtube.com/watch?v=rXcVvxseBlo)** — *Génération 80*
+2. **[Gata Only](https://music.youtube.com/watch?v=UWn9RdueB7E)** — *FloyyMenor, Cris Mj*
+3. **[La tribu de Dana](https://music.youtube.com/watch?v=GuyvZp_cM0c)** — *Manau*
+4. **[Ma Philosophie](https://music.youtube.com/watch?v=kTzMPSc5IWk)** — *50 Tubes Du Top*
+5. **[La vie qu'on mène](https://music.youtube.com/watch?v=BJwovrr6XzI)** — *Ninho*
+6. **[String Quartet No. 17 in B-Flat Major, K. 458 “The Hunt”: I. Allegro vivace assai](https://music.youtube.com/watch?v=PTSmL2_M2O4)** — *Krakow String Project, Wolfgang Amadeus Mozart*
+7. **[SPA](https://music.youtube.com/watch?v=Zm9RJff5fjw)** — *GIMS, Theodora*
+8. **[Dernière danse](https://music.youtube.com/watch?v=cKE4wJMcAkc)** — *Indila*
+9. **[NINAO](https://music.youtube.com/watch?v=KJtOTXqaW9w)** — *GIMS*
+10. **[BTS | FIFA World Cup 2026™ Final Halftime Show | Full Performance](https://music.youtube.com/watch?v=E3nWu1VgRJU)** — *FIFA*
+11. **[Wine Teasting in France](https://music.youtube.com/watch?v=ow5Ae54fKg0)** — *Florence Greeven*
+12. **[Voyage, Voyage](https://music.youtube.com/watch?v=dB_c7oZWo1g)** — *DESIRELESS*
+13. **[Ma direction](https://music.youtube.com/watch?v=_zExi90sw2U)** — *Sexion d'Assaut*
+14. **[Une autre histoire](https://music.youtube.com/watch?v=zcG4rTyhPNI)** — *Gérard Blanc*
+15. **[C’est la vie](https://music.youtube.com/watch?v=hToD6-5wJ_0)** — *Khaled*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
