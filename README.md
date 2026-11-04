@@ -1,22 +1,22 @@
-# 🎧 Ma Playlist Découverte du Jour (03/11/2026)
+# 🎧 Ma Playlist Découverte du Jour (04/11/2026)
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[Générique Top 50 (feat. P. Lion)](https://music.youtube.com/watch?v=R60bVh6Wj-A)** — **
-2. **[Piano Sonata No. 16 in C Major, K. 545 “Sonata Facile”: III. Rondo – Allegretto](https://music.youtube.com/watch?v=4-5QCKGrFBw)** — *Krakow String Project, Wolfgang Amadeus Mozart*
-3. **[Tu M'oublieras](https://music.youtube.com/watch?v=t_i2_F4DuWs)** — **
-4. **[LES HITS DE 2002 EN FRANCE](https://music.youtube.com/watch?v=MQFWWYT79EE)** — **
-5. **[String Quartet No. 17 in B-Flat Major, K. 458 “The Hunt”: I. Allegro vivace assai](https://music.youtube.com/watch?v=PTSmL2_M2O4)** — *Krakow String Project, Wolfgang Amadeus Mozart*
-6. **[Voyage, Voyage](https://music.youtube.com/watch?v=dB_c7oZWo1g)** — *DESIRELESS*
-7. **[Dernière danse](https://music.youtube.com/watch?v=cKE4wJMcAkc)** — **
-8. **[Wine Teasting in France](https://music.youtube.com/watch?v=ow5Ae54fKg0)** — **
-9. **[Dolce Camara](https://music.youtube.com/watch?v=AgFG6_TGdTY)** — **
-10. **[C’est la vie](https://music.youtube.com/watch?v=hToD6-5wJ_0)** — *Khaled*
-11. **[Je veux](https://music.youtube.com/watch?v=Z7cuTnbF-2c)** — **
-12. **[Juke Box (Young Pulse Remix)](https://music.youtube.com/watch?v=k_FBhxNBazg)** — *Françoise Hardy, Funky French League*
-13. **[A.W.A](https://music.youtube.com/watch?v=pr2jXZBmgjo)** — **
-14. **[Full Mix Bonus : Génération 80 (Album Complet)](https://music.youtube.com/watch?v=rXcVvxseBlo)** — **
-15. **[Les Champs-Elysées](https://music.youtube.com/watch?v=pvgjEdnTgXA)** — **
+1. **[Je veux](https://music.youtube.com/watch?v=Z7cuTnbF-2c)** — *Zaz*
+2. **[Générique TOP 50 (Synthwave Remix)](https://music.youtube.com/watch?v=gkfiE_wAY1g)** — *Santini*
+3. **[Désolé](https://music.youtube.com/watch?v=Wv6I6okZgVc)** — *Sexion d'Assaut*
+4. **[Sonata for Keyboard and Violin No. 35 in A Major, K. 526: III. Presto](https://music.youtube.com/watch?v=dQ_XyzrEsoI)** — *Warsaw String Masters, Wolfgang Amadeus Mozart*
+5. **[A toutes les filles](https://music.youtube.com/watch?v=bT0fOICThnU)** — *50 Tubes Du Top*
+6. **[Et si tu n'existais pas](https://music.youtube.com/watch?v=EJLDd-VOH1U)** — *Joe Dassin*
+7. **[Ma direction](https://music.youtube.com/watch?v=_zExi90sw2U)** — *Sexion d'Assaut*
+8. **[Les Divas Du Dancing](https://music.youtube.com/watch?v=BrerDlGdvzk)** — *50 Tubes Du Top*
+9. **[Voyage, Voyage](https://music.youtube.com/watch?v=dB_c7oZWo1g)** — *DESIRELESS*
+10. **[Alors on danse (Radio Edit)](https://music.youtube.com/watch?v=SXoQHp2cQQc)** — *Stromae*
+11. **[T'en Va pas](https://music.youtube.com/watch?v=jkWbDULlZew)** — *50 Tubes Du Top*
+12. **[String Quartet No. 17 in B-Flat Major, K. 458 “The Hunt”: I. Allegro vivace assai](https://music.youtube.com/watch?v=PTSmL2_M2O4)** — *Krakow String Project, Wolfgang Amadeus Mozart*
+13. **[Zouk la sé sél médikaman nou ni](https://music.youtube.com/watch?v=_FJ03NjJEUY)** — *Kassav'*
+14. **[Full Mix Bonus : Nostalgie 80 (Album Complet)](https://music.youtube.com/watch?v=U7Z8Z0DvS2c)** — *Nostalgie 80*
+15. **[Une autre histoire](https://music.youtube.com/watch?v=zcG4rTyhPNI)** — *Gérard Blanc*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
