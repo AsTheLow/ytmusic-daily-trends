@@ -3,20 +3,20 @@
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
 1. **[Belle Ile En Mer](https://music.youtube.com/watch?v=JEBTbtyGv84)** — *50 Tubes Du Top*
-2. **[Dernière danse](https://music.youtube.com/watch?v=cKE4wJMcAkc)** — *Indila*
-3. **[Voyage, Voyage](https://music.youtube.com/watch?v=dB_c7oZWo1g)** — *DESIRELESS*
+2. **[Direct au top 50 (2020 Remaster)](https://music.youtube.com/watch?v=SzH94TnY7lk)** — *Gogol Premier*
+3. **[C’est la vie](https://music.youtube.com/watch?v=hToD6-5wJ_0)** — *Khaled*
 4. **[A.W.A](https://music.youtube.com/watch?v=pr2jXZBmgjo)** — *Lacrim, French Montana*
-5. **[Tu M'oublieras](https://music.youtube.com/watch?v=t_i2_F4DuWs)** — *50 Tubes Du Top*
-6. **[Asalto](https://music.youtube.com/watch?v=pCJQcY-opPk)** — *JUL*
-7. **[Une autre histoire](https://music.youtube.com/watch?v=zcG4rTyhPNI)** — *Gérard Blanc*
-8. **[Et si tu n'existais pas](https://music.youtube.com/watch?v=EJLDd-VOH1U)** — *Joe Dassin*
-9. **[Dai Dai](https://music.youtube.com/watch?v=lFQdcPTTzSg)** — *Shakira, Burna Boy*
-10. **[T'en Va pas](https://music.youtube.com/watch?v=jkWbDULlZew)** — *50 Tubes Du Top*
-11. **[Sonata for Keyboard and Violin No. 35 in A Major, K. 526: III. Presto](https://music.youtube.com/watch?v=dQ_XyzrEsoI)** — *Warsaw String Masters, Wolfgang Amadeus Mozart*
-12. **[Les Divas Du Dancing](https://music.youtube.com/watch?v=BrerDlGdvzk)** — *50 Tubes Du Top*
-13. **[Foule sentimentale](https://music.youtube.com/watch?v=Eoy1Iik9Ens)** — *Alain Souchon*
-14. **[C’est la vie](https://music.youtube.com/watch?v=hToD6-5wJ_0)** — *Khaled*
-15. **[Je veux](https://music.youtube.com/watch?v=Z7cuTnbF-2c)** — *Zaz*
+5. **[Full Mix Bonus : Génération 80 (Album Complet)](https://music.youtube.com/watch?v=rXcVvxseBlo)** — *Génération 80*
+6. **[Piano Concerto No. 8 in C Major, K. 246 “Lutzow”: I. Allegro aperto](https://music.youtube.com/watch?v=FokL5cbYMcw)** — *Krakow String Project, Wolfgang Amadeus Mozart*
+7. **[Jerusalema (feat. Nomcebo Zikode)](https://music.youtube.com/watch?v=sHatfoYEQo0)** — *Master KG*
+8. **[J'ai Demandé A La Lune](https://music.youtube.com/watch?v=2GUnGfFnP7g)** — *50 Tubes Au Top*
+9. **[Born To Be Alive](https://music.youtube.com/watch?v=iGSLev5edOk)** — *50 Tubes Du Top*
+10. **[Tourner Dans Le Vide](https://music.youtube.com/watch?v=ONlMB2oGWwE)** — *Indila*
+11. **[Juke Box (Young Pulse Remix)](https://music.youtube.com/watch?v=k_FBhxNBazg)** — *Françoise Hardy, Funky French League*
+12. **[French bachata](https://music.youtube.com/watch?v=xp5YbxL3wfg)** — *Wahyné*
+13. **[Asalto](https://music.youtube.com/watch?v=pCJQcY-opPk)** — *JUL*
+14. **[Happy Birthday](https://music.youtube.com/watch?v=dNEnzdcnWzE)** — *Naza*
+15. **[Alors on danse (Radio Edit)](https://music.youtube.com/watch?v=SXoQHp2cQQc)** — *Stromae*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
