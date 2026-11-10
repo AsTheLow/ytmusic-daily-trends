@@ -2,21 +2,21 @@
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[I Got 5 On It (feat. Michael Marshall)](https://music.youtube.com/watch?v=Dsct-TZ26Pw)** — *Luniz*
-2. **[Belle Ile En Mer](https://music.youtube.com/watch?v=JEBTbtyGv84)** — *50 Tubes Du Top*
-3. **[Full Mix Bonus : Génération 80 (Album Complet)](https://music.youtube.com/watch?v=rXcVvxseBlo)** — *Génération 80*
-4. **[Voyage, Voyage](https://music.youtube.com/watch?v=dB_c7oZWo1g)** — *DESIRELESS*
-5. **[Et si tu n'existais pas](https://music.youtube.com/watch?v=EJLDd-VOH1U)** — *Joe Dassin*
-6. **[String Quartet No. 17 in B-Flat Major, K. 458 “The Hunt”: I. Allegro vivace assai](https://music.youtube.com/watch?v=PTSmL2_M2O4)** — *Krakow String Project, Wolfgang Amadeus Mozart*
-7. **[Sur ma route](https://music.youtube.com/watch?v=U-Z_bZS8t3M)** — *Black M*
-8. **[Ça c'est Paris](https://music.youtube.com/watch?v=7z90JJSHRcM)** — *Colette Renard*
-9. **[Foule sentimentale](https://music.youtube.com/watch?v=Eoy1Iik9Ens)** — *Alain Souchon*
-10. **[Alors on danse (Radio Edit)](https://music.youtube.com/watch?v=SXoQHp2cQQc)** — *Stromae*
-11. **[Mon mec à moi](https://music.youtube.com/watch?v=5lxEWsuGu9Q)** — *50 Tubes Au Top*
-12. **[Gata Only](https://music.youtube.com/watch?v=UWn9RdueB7E)** — *FloyyMenor, Cris Mj*
-13. **[SPA](https://music.youtube.com/watch?v=Zm9RJff5fjw)** — *GIMS, Theodora*
-14. **[Dolce Camara](https://music.youtube.com/watch?v=AgFG6_TGdTY)** — *Booba, SDM*
-15. **[Happy Birthday](https://music.youtube.com/watch?v=dNEnzdcnWzE)** — *Naza*
+1. **[Belle Ile En Mer](https://music.youtube.com/watch?v=JEBTbtyGv84)** — *50 Tubes Du Top*
+2. **[Dernière danse](https://music.youtube.com/watch?v=cKE4wJMcAkc)** — *Indila*
+3. **[Voyage, Voyage](https://music.youtube.com/watch?v=dB_c7oZWo1g)** — *DESIRELESS*
+4. **[A.W.A](https://music.youtube.com/watch?v=pr2jXZBmgjo)** — *Lacrim, French Montana*
+5. **[Tu M'oublieras](https://music.youtube.com/watch?v=t_i2_F4DuWs)** — *50 Tubes Du Top*
+6. **[Asalto](https://music.youtube.com/watch?v=pCJQcY-opPk)** — *JUL*
+7. **[Une autre histoire](https://music.youtube.com/watch?v=zcG4rTyhPNI)** — *Gérard Blanc*
+8. **[Et si tu n'existais pas](https://music.youtube.com/watch?v=EJLDd-VOH1U)** — *Joe Dassin*
+9. **[Dai Dai](https://music.youtube.com/watch?v=lFQdcPTTzSg)** — *Shakira, Burna Boy*
+10. **[T'en Va pas](https://music.youtube.com/watch?v=jkWbDULlZew)** — *50 Tubes Du Top*
+11. **[Sonata for Keyboard and Violin No. 35 in A Major, K. 526: III. Presto](https://music.youtube.com/watch?v=dQ_XyzrEsoI)** — *Warsaw String Masters, Wolfgang Amadeus Mozart*
+12. **[Les Divas Du Dancing](https://music.youtube.com/watch?v=BrerDlGdvzk)** — *50 Tubes Du Top*
+13. **[Foule sentimentale](https://music.youtube.com/watch?v=Eoy1Iik9Ens)** — *Alain Souchon*
+14. **[C’est la vie](https://music.youtube.com/watch?v=hToD6-5wJ_0)** — *Khaled*
+15. **[Je veux](https://music.youtube.com/watch?v=Z7cuTnbF-2c)** — *Zaz*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
