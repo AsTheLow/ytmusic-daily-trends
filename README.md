@@ -2,21 +2,21 @@
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[Désolé](https://music.youtube.com/watch?v=Wv6I6okZgVc)** — *Sexion d'Assaut*
+1. **[Alors on danse (Radio Edit)](https://music.youtube.com/watch?v=gUbeQ7eb3nc)** — *Stromae*
 2. **[Foule sentimentale](https://music.youtube.com/watch?v=Eoy1Iik9Ens)** — *Alain Souchon*
-3. **[D'amour ou d'amitié](https://music.youtube.com/watch?v=VNMqtz5AZkQ)** — *Céline Dion*
-4. **[French Café PLAYLIST l Beautiful Café Songs](https://music.youtube.com/watch?v=13OsbB2IbPY)** — *forstar-studio*
-5. **['50s French Movie](https://music.youtube.com/watch?v=EQQBx8YVoq8)** — *Carrie Rodriguez*
+3. **[Une autre histoire](https://music.youtube.com/watch?v=zcG4rTyhPNI)** — *Gérard Blanc*
+4. **[Pocahontas](https://music.youtube.com/watch?v=7Kouia1rYzg)** — *PLK*
+5. **[Ramenez la coupe à la maison](https://music.youtube.com/watch?v=RHb5LKnnxLg)** — *Vegedream*
 6. **[A toutes les filles](https://music.youtube.com/watch?v=bT0fOICThnU)** — *50 Tubes Du Top*
-7. **[C’est la vie](https://music.youtube.com/watch?v=hToD6-5wJ_0)** — *Khaled*
+7. **[La vie qu'on mène](https://music.youtube.com/watch?v=BJwovrr6XzI)** — *Ninho*
 8. **[Copines](https://music.youtube.com/watch?v=aykb9pGfTR4)** — *Aya Nakamura*
-9. **[Fly Me To The Moon (2008 Remastered) (feat. Count Basie And His Orchestra)](https://music.youtube.com/watch?v=ZEcqHA7dbwM)** — *Frank Sinatra*
-10. **[Best of AI French Songs 2025 (EP1)](https://music.youtube.com/watch?v=r_pqdgxKwe8)** — *SoundSurge*
-11. **[SPA](https://music.youtube.com/watch?v=Zm9RJff5fjw)** — *GIMS, Theodora*
-12. **[NINAO](https://music.youtube.com/watch?v=KJtOTXqaW9w)** — *GIMS*
-13. **[Pocahontas](https://music.youtube.com/watch?v=7Kouia1rYzg)** — *PLK*
-14. **[Générique TOP 50 (Synthwave Remix)](https://music.youtube.com/watch?v=gkfiE_wAY1g)** — *Santini*
-15. **[La tribu de Dana](https://music.youtube.com/watch?v=GuyvZp_cM0c)** — *Manau*
+9. **[Full Mix Bonus : Génération 80 (Album Complet)](https://music.youtube.com/watch?v=rXcVvxseBlo)** — *Génération 80*
+10. **[Alors on danse (Radio Edit)](https://music.youtube.com/watch?v=SXoQHp2cQQc)** — *Stromae*
+11. **[Sur ma route](https://music.youtube.com/watch?v=U-Z_bZS8t3M)** — *Black M*
+12. **[Papaoutai (Afro Soul) (Afro House Remix Edit)](https://music.youtube.com/watch?v=fbin7YW2Sl4)** — *Youssou Makeba*
+13. **[French bachata](https://music.youtube.com/watch?v=xp5YbxL3wfg)** — *Wahyné*
+14. **[Les Divas Du Dancing](https://music.youtube.com/watch?v=BrerDlGdvzk)** — *50 Tubes Du Top*
+15. **[Asalto](https://music.youtube.com/watch?v=pCJQcY-opPk)** — *JUL*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
