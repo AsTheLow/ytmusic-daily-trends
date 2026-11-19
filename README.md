@@ -1,22 +1,22 @@
-# 🎧 Ma Playlist Découverte du Jour (18/11/2026)
+# 🎧 Ma Playlist Découverte du Jour (19/11/2026)
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[La vie qu'on mène](https://music.youtube.com/watch?v=BJwovrr6XzI)** — *Ninho*
-2. **[Beau malheur](https://music.youtube.com/watch?v=3kmB87yen5I)** — *Hits Variété Pop*
-3. **['50s French Movie](https://music.youtube.com/watch?v=EQQBx8YVoq8)** — *Carrie Rodriguez*
-4. **[Full Mix Bonus : Génération 80 (Album Complet)](https://music.youtube.com/watch?v=rXcVvxseBlo)** — *Génération 80*
-5. **[Piano Concerto No. 8 in C Major, K. 246 “Lutzow”: I. Allegro aperto](https://music.youtube.com/watch?v=FokL5cbYMcw)** — *Krakow String Project, Wolfgang Amadeus Mozart*
-6. **[La Foule](https://music.youtube.com/watch?v=o2Tz1yV48NQ)** — *Edith Piaf*
-7. **[French bachata](https://music.youtube.com/watch?v=xp5YbxL3wfg)** — *Wahyné*
-8. **[A toutes les filles](https://music.youtube.com/watch?v=bT0fOICThnU)** — *50 Tubes Du Top*
-9. **[Copines](https://music.youtube.com/watch?v=aykb9pGfTR4)** — *Aya Nakamura*
-10. **[String Quartet No. 14 in G Major, K. 387 “Spring”: I. Allegro vivace assai](https://music.youtube.com/watch?v=bBLLqqboquk)** — *Krakow String Project, Wolfgang Amadeus Mozart*
-11. **[NINAO](https://music.youtube.com/watch?v=KJtOTXqaW9w)** — *GIMS*
-12. **[Foule sentimentale](https://music.youtube.com/watch?v=Eoy1Iik9Ens)** — *Alain Souchon*
-13. **[Full Mix Bonus : Nostalgie 80 (Album Complet)](https://music.youtube.com/watch?v=U7Z8Z0DvS2c)** — *Nostalgie 80*
-14. **[O Malhão Malhão](https://music.youtube.com/watch?v=11b4wRfS-tk)** — *Linda de Suza*
-15. **[Happy Birthday](https://music.youtube.com/watch?v=dNEnzdcnWzE)** — *Naza*
+1. **[C’est la vie](https://music.youtube.com/watch?v=hToD6-5wJ_0)** — *Khaled*
+2. **[SPA](https://music.youtube.com/watch?v=Zm9RJff5fjw)** — *GIMS, Theodora*
+3. **[Alors on danse (Radio Edit)](https://music.youtube.com/watch?v=gUbeQ7eb3nc)** — *Stromae*
+4. **[Tourner Dans Le Vide](https://music.youtube.com/watch?v=ONlMB2oGWwE)** — *Indila*
+5. **[A.W.A](https://music.youtube.com/watch?v=pr2jXZBmgjo)** — *Lacrim, French Montana*
+6. **[Happy Birthday](https://music.youtube.com/watch?v=dNEnzdcnWzE)** — *Naza*
+7. **[Wine Teasting in France](https://music.youtube.com/watch?v=ow5Ae54fKg0)** — *Florence Greeven*
+8. **[Une autre histoire](https://music.youtube.com/watch?v=zcG4rTyhPNI)** — *Gérard Blanc*
+9. **[Les Champs-Elysées](https://music.youtube.com/watch?v=pvgjEdnTgXA)** — *Joe Dassin*
+10. **[Full Mix Bonus : Génération 80 (Album Complet)](https://music.youtube.com/watch?v=rXcVvxseBlo)** — *Génération 80*
+11. **[Foule sentimentale](https://music.youtube.com/watch?v=Eoy1Iik9Ens)** — *Alain Souchon*
+12. **[Bad boy](https://music.youtube.com/watch?v=Xe5lrw1RRZY)** — *Marwa Loud*
+13. **[La Boulette](https://music.youtube.com/watch?v=Fgc0ltYI04s)** — *50 Tubes Du Top*
+14. **[Essayer De Ne Pas Chanter et Danser Challenge!!!! 🤫⛔](https://music.youtube.com/watch?v=1p2kmyx56mE)** — *TopVideos: France*
+15. **[French bachata](https://music.youtube.com/watch?v=xp5YbxL3wfg)** — *Wahyné*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
