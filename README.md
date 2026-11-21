@@ -1,22 +1,22 @@
-# 🎧 Ma Playlist Découverte du Jour (20/11/2026)
+# 🎧 Ma Playlist Découverte du Jour (21/11/2026)
 
 15 morceaux piochés automatiquement chaque matin dans les tendances France :
 
-1. **[Les Divas Du Dancing](https://music.youtube.com/watch?v=BrerDlGdvzk)** — *50 Tubes Du Top*
-2. **[La vie qu'on mène](https://music.youtube.com/watch?v=BJwovrr6XzI)** — *Ninho*
-3. **[Tourner Dans Le Vide](https://music.youtube.com/watch?v=ONlMB2oGWwE)** — *Indila*
-4. **[Tu M'oublieras](https://music.youtube.com/watch?v=t_i2_F4DuWs)** — *50 Tubes Du Top*
-5. **[Wine Teasting in France](https://music.youtube.com/watch?v=ow5Ae54fKg0)** — *Florence Greeven*
-6. **[Désenchantée](https://music.youtube.com/watch?v=z7kVI2W5jGw)** — *Mylène Farmer*
-7. **[Full Mix Bonus : Nostalgie 80 (Album Complet)](https://music.youtube.com/watch?v=U7Z8Z0DvS2c)** — *Nostalgie 80*
-8. **[Cosmo](https://music.youtube.com/watch?v=Mst7XVz_G24)** — *Soprano*
-9. **[Full Mix Bonus : Génération 80 (Album Complet)](https://music.youtube.com/watch?v=rXcVvxseBlo)** — *Génération 80*
-10. **[Ramenez la coupe à la maison](https://music.youtube.com/watch?v=RHb5LKnnxLg)** — *Vegedream*
-11. **[A.W.A](https://music.youtube.com/watch?v=pr2jXZBmgjo)** — *Lacrim, French Montana*
-12. **[Je veux](https://music.youtube.com/watch?v=Z7cuTnbF-2c)** — *Zaz*
-13. **[70s French Oldies Love Songs Soft Chanson & Rainy Paris Cafe](https://music.youtube.com/watch?v=mBOGGZZo9Iw)** — *TOP DANZA 80s*
-14. **[French Café PLAYLIST l Beautiful Café Songs](https://music.youtube.com/watch?v=13OsbB2IbPY)** — *forstar-studio*
-15. **[Pocahontas](https://music.youtube.com/watch?v=7Kouia1rYzg)** — *PLK*
+1. **[A toutes les filles](https://music.youtube.com/watch?v=bT0fOICThnU)** — *50 Tubes Du Top*
+2. **[To France](https://music.youtube.com/watch?v=KrFD02bOJ3g)** — *Mike Oldfield*
+3. **[I Got 5 On It (feat. Michael Marshall)](https://music.youtube.com/watch?v=Dsct-TZ26Pw)** — *Luniz*
+4. **[String Quartet No. 19 in C Major, K. 465 “Dissonance”: II. Andante cantabile](https://music.youtube.com/watch?v=US3ZCofffwM)** — *Krakow String Project, Wolfgang Amadeus Mozart*
+5. **[Désenchantée](https://music.youtube.com/watch?v=z7kVI2W5jGw)** — *Mylène Farmer*
+6. **[Pocahontas](https://music.youtube.com/watch?v=7Kouia1rYzg)** — *PLK*
+7. **[Je te laisserai des mots](https://music.youtube.com/watch?v=mcdO9UP0hp8)** — *Patrick Watson*
+8. **[String Quartet No. 14 in G Major, K. 387 “Spring”: I. Allegro vivace assai](https://music.youtube.com/watch?v=bBLLqqboquk)** — *Krakow String Project, Wolfgang Amadeus Mozart*
+9. **[Tourner Dans Le Vide](https://music.youtube.com/watch?v=ONlMB2oGWwE)** — *Indila*
+10. **[Désolé](https://music.youtube.com/watch?v=Wv6I6okZgVc)** — *Sexion d'Assaut*
+11. **[Top Medley 80 (Club Mix)](https://music.youtube.com/watch?v=A_M0Esxhf7g)** — *Génération 80*
+12. **[Copines](https://music.youtube.com/watch?v=aykb9pGfTR4)** — *Aya Nakamura*
+13. **[Full Mix Bonus : Génération 80 (Album Complet)](https://music.youtube.com/watch?v=rXcVvxseBlo)** — *Génération 80*
+14. **[Générique TOP 50 (Synthwave Remix)](https://music.youtube.com/watch?v=gkfiE_wAY1g)** — *Santini*
+15. **[Tu M'oublieras](https://music.youtube.com/watch?v=t_i2_F4DuWs)** — *50 Tubes Du Top*
 
 ---
 *Mis à jour automatiquement chaque jour via GitHub Actions 🤖*
